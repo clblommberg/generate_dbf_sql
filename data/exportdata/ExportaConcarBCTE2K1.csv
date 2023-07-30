@@ -1,0 +1,1604 @@
+"00","00","INDICE DE TABLAS",26/11/2013 00:00:00,"03:57:"
+"00","02","SUB DIARIOS",26/11/2013 00:00:00,"03:57:"
+"00","03","MONEDAS",26/11/2013 00:00:00,"03:57:"
+"00","04","TITULOS DE CENTROS DE COSTOS",26/11/2013 00:00:00,"03:57:"
+"00","05","CENTROS DE COSTOS",26/11/2013 00:00:00,"03:57:"
+"00","06","TIPOS DE DOCUMENTOS",26/11/2013 00:00:00,"03:57:"
+"00","07","PLAN - TIPO DE ANEXO",26/11/2013 00:00:00,"03:57:"
+"00","08","PLAN - TIPOS DE CUENTA",26/11/2013 00:00:00,"03:57:"
+"00","09","PLAN - NIVEL DE SALDO",26/11/2013 00:00:00,"03:57:"
+"00","10","FORMATOS DE BALANCE",26/11/2013 00:00:00,"03:57:"
+"00","11","FORMATOS DE GAN. PERD. POR FUNCION",26/11/2013 00:00:00,"03:57:"
+"00","12","FORMATOS DE COSTOS",26/11/2013 00:00:00,"03:57:"
+"00","13","FORMATO DE GAN. Y PERD. POR NATURALEZA",26/11/2013 00:00:00,"03:57:"
+"00","14","PLAN - LINEAS DE GANANCIAS Y PERDIDAS",26/11/2013 00:00:00,"03:57:"
+"00","15","DOCUMENTOS BANCARIOS",26/11/2013 00:00:00,"03:57:"
+"00","16","RUBROS DE CONCILIACION BANCARIA",26/11/2013 00:00:00,"03:57:"
+"00","17","TIPO DE CONVERSION DE MONEDA",26/11/2013 00:00:00,"03:57:"
+"00","18","PLAN - ESTADO DE LA CUENTA",26/11/2013 00:00:00,"03:57:"
+"00","19","PLAN - REGISTRO DE LA CUENTA",26/11/2013 00:00:00,"03:57:"
+"00","20","FORMATO DE BALANCE",26/11/2013 00:00:00,"03:57:"
+"00","21","FTO. G Y P FUNCION ALTERNO",26/11/2013 00:00:00,"03:57:"
+"00","23","FTO. G Y P NATURALEZA ALTERNO",26/11/2013 00:00:00,"03:57:"
+"00","26","TABLA DE AREAS",26/11/2013 00:00:00,"03:57:"
+"00","27","ACTIVIDAD DE FLUJO DE EFECTIVO",26/11/2013 00:00:00,"03:57:"
+"00","28","TASAS DE DETRACCIONES SUNAT",26/11/2013 00:00:00,"03:57:"
+"00","29","TASAS DE PERCEPCIONES SUNAT",26/11/2013 00:00:00,"03:57:"
+"00","30","CUENTAS RESUMIDAS EN EL MAYOR",26/11/2013 00:00:00,"03:57:"
+"00","32","GANANCIAS Y PERDIDAS POR LINEA-PORCENTAJES",26/11/2013 00:00:00,"03:57:"
+"00","33","GANANCIAS Y PERDIDAS POR LINEA-BASE PARA PORCENTAJES",26/11/2013 00:00:00,"03:57:"
+"00","41","ASIENTO DE CIERRE - FORMAS",26/11/2013 00:00:00,"03:57:"
+"00","42","SUBDIARIO PARA COMPROBANTES DE BANCOS",26/11/2013 00:00:00,"03:57:"
+"00","49","TIPO DE CTAS CTES BANCOS",26/11/2013 00:00:00,"03:57:"
+"00","53","PARAMETROS PARA COMPROBANTES DE COMPRAS",26/11/2013 00:00:00,"03:57:"
+"00","54","PARAMETROS PARA REGISTRO DE HONORARIOS",26/11/2013 00:00:00,"03:57:"
+"00","55","PARAMETROS PARA REGULARIZACION DIF. CAMBIO",26/11/2013 00:00:00,"03:57:"
+"00","56","PARAMETROS PARA COMPROBANTES DE VENTAS",26/11/2013 00:00:00,"03:57:"
+"00","58","PARAMETRO PARA EL AJUSTE POR DIF. CAMBIO",26/11/2013 00:00:00,"03:57:"
+"00","59","PARAMETROS DE COMPRAS CONTADO",26/11/2013 00:00:00,"03:57:"
+"00","60","CONCEPTOS PARA CHEQUES AUTOMATICOS",26/11/2013 00:00:00,"03:57:"
+"00","71","REPORTE DE INGRESOS Y GASTOS",26/11/2013 00:00:00,"03:57:"
+"00","72","FORMATO DE REPORTES ESPECIALES",26/11/2013 00:00:00,"03:57:"
+"00","90","DESCRIPCION DEL MES",26/11/2013 00:00:00,"03:57:"
+"00","91","CLASIFICACION DE AREAS POR GRUPOS",26/11/2013 00:00:00,"03:57:"
+"00","93","CONTROLES VARIOS",26/11/2013 00:00:00,"03:57:"
+"00","94","PARAMETROS DE VENCIMIENTOS",26/11/2013 00:00:00,"03:57:"
+"00","95","PARAMETROS PARA EL ASIENTO DE AJUSTE POR INFLACION",26/11/2013 00:00:00,"03:57:"
+"00","D1","MONTO BASE DETRACCION",26/11/2013 00:00:00,"03:57:"
+"00","I1","TIPO DE DOCUMENTOS (Archivos)",26/11/2013 00:00:00,"15:57"
+"00","L1","ANEXO DE INTANGIBLES",19/10/2019 00:00:00,"10:07:"
+"00","L2","LISTA DE INTANGIBLES",19/10/2019 00:00:00,"10:07:"
+"00","M1","TIPO DE ACCIONES O PARTICIPACIONES",10/10/2019 00:00:00,"17:01:"
+"00","N3","PARAMETROS DE COMPRAS NO DOMICILIADOS",,
+"00","N4","TIPO DE BIEN O SERVICIO",10/10/2019 00:00:00,"17:01:"
+"00","N5","MONEDAS - NO DOMICILIADOS",,
+"00","N6","TIPOS DE RENTA - NO DOMICILIADOS",,
+"00","N7","TASAS DE RENTA - NO DOMICILIADOS",,
+"00","N8","MODALIDAD DEL SERVICIO PRESTADO - NO DOMICILIADOS",,
+"00","N9","TIPO DE VINCULACION ECONOMICA - NO DOMICILIADOS",,
+"00","NY","EXONERACIONES DE OPERACIONES - NO DOMICILIADOS",,
+"00","P1","PARAMETROS DE PERCEPCION",26/11/2013 00:00:00,"03:57:"
+"00","R1","SEXO",26/11/2013 00:00:00,"03:57:"
+"00","R2","NACIONALIDAD",26/11/2013 00:00:00,"03:57:"
+"00","R3","ESSALUD",26/11/2013 00:00:00,"03:57:"
+"00","R4","TIPO DE VIA",26/11/2013 00:00:00,"03:57:"
+"00","R5","TIPO DE ZONA",26/11/2013 00:00:00,"03:57:"
+"00","R6","UBIGEO",26/11/2013 00:00:00,"03:57:"
+"00","R7","TIPO DE COMPROBANTE",26/11/2013 00:00:00,"03:57:"
+"00","R8","TIPO DE DOCUMENTO",26/11/2013 00:00:00,"03:57:"
+"00","R9","Convenio para evitar la doble Tributaciæn",26/11/2013 00:00:00,"03:57:"
+"00","S1","TIPO DE MEDIO DE PAGO",26/11/2013 00:00:00,"03:57:"
+"00","S3","ENTIDAD FINANCIERA",26/11/2013 00:00:00,"03:57:"
+"00","SB","CÀDIGO DE LA ADUANA",26/11/2013 00:00:00,"03:57:"
+"00","TP","TIPO DE PLAN DE CUENTAS A UTILIZAR",26/11/2013 00:00:00,"03:57:"
+"00","Y1","CATALOGO DE ESTADO FINANCIEROS",10/10/2019 00:00:00,"17:01:"
+"00","Y2","ESTADO FINANCIEROS",10/10/2019 00:00:00,"17:01:"
+"00","Z1","PARAMETROS MOVIMIENTOS POR AREA BIMONEDA",26/11/2013 00:00:00,"03:57:"
+"02","00","ASIENTO DE INICIO (APERTURA)",26/11/2013 00:00:00,"03:57:"
+"02","01","CAJA EFECTIVO",26/11/2013 00:00:00,"03:57:"
+"02","03","PLANILLA DE COBRANZA",26/11/2013 00:00:00,"03:57:"
+"02","05","REGISTRO VENTAS",26/11/2013 00:00:00,"03:57:"
+"02","06","REGISTRO VENTAS - EXPORTACIONES",26/11/2013 00:00:00,"03:57:"
+"02","07","REGISTRO VENTAS - INAFECTAS",26/11/2013 00:00:00,"03:57:"
+"02","09","LETRAS POR COBRAR",26/11/2013 00:00:00,"03:57:"
+"02","10","REGISTRO COMPRAS DETRACCIONES",26/11/2013 00:00:00,"03:57:"
+"02","11","REGISTRO COMPRAS LOCALES - VTAS GRAVADAS",26/11/2013 00:00:00,"03:57:"
+"02","12","REGISTRO COMPRAS IMPORTACIONES - VTAS GRAVADAS",26/11/2013 00:00:00,"03:57:"
+"02","13","REGISTRO COMPRAS - VTAS GRAV. Y NO GRAVA.",26/11/2013 00:00:00,"03:57:"
+"02","14","REGISTRO COMPRAS CON IGV. SIN DERECHO CREDITO",26/11/2013 00:00:00,"03:57:"
+"02","15","REGISTRO DE HONORARIOS",26/11/2013 00:00:00,"03:57:"
+"02","18","IGV NO DOMICILIADOS",26/11/2013 00:00:00,"03:57:"
+"02","19","FACTURAS DEL EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"02","20","PROVISION IGV NO DOMICILIADOS",26/11/2013 00:00:00,"03:57:"
+"02","21","BANCOS - INGRESOS",26/11/2013 00:00:00,"03:57:"
+"02","22","BANCOS - EGRESOS VARIOS",26/11/2013 00:00:00,"03:57:"
+"02","23","BANCOS - CHEQUES",26/11/2013 00:00:00,"03:57:"
+"02","25","LETRAS POR PAGAR",26/11/2013 00:00:00,"03:57:"
+"02","27","RENDICION DE CUENTA",26/11/2013 00:00:00,"03:57:"
+"02","31","PROVISIONES VARIAS",26/11/2013 00:00:00,"03:57:"
+"02","32","COSTO DE PRODUCCION",26/11/2013 00:00:00,"03:57:"
+"02","33","COSTO DE VENTAS",26/11/2013 00:00:00,"03:57:"
+"02","35","PLANILLA DE SUELDOS Y SALARIOS",26/11/2013 00:00:00,"03:57:"
+"02","55","REGULARIZACION AUT. DIF CAMBIO",26/11/2013 00:00:00,"03:57:"
+"02","56","AJUSTE AUT. POR DIF. CAMBIO",26/11/2013 00:00:00,"03:57:"
+"02","59","AJUSTE POR INFLACION",26/11/2013 00:00:00,"03:57:"
+"02","87","AJUSTE INFLACION BALANCE",26/11/2013 00:00:00,"03:57:"
+"02","88","AJUSTE POR INFLACION GP-FUNCION",26/11/2013 00:00:00,"03:57:"
+"02","89","AJUSTE POR INFLACION GP-NATURALEZA",26/11/2013 00:00:00,"03:57:"
+"02","90","CARGA INICIAL DE CONCILIACION",26/11/2013 00:00:00,"03:57:"
+"02","99","ASIENTO DE CIERRE",26/11/2013 00:00:00,"03:57:"
+"03","MN","SOLES",26/11/2013 00:00:00,"03:57:"
+"03","US","DOLAR USA",26/11/2013 00:00:00,"03:57:"
+"03","UZ","MONEDAD",26/11/2013 00:00:00,"03:57:"
+"04","10","PRODUCCION",26/11/2013 00:00:00,"03:57:"
+"04","20","ADMINISTRACION",26/11/2013 00:00:00,"03:57:"
+"04","30","VENTAS",26/11/2013 00:00:00,"03:57:"
+"05","100","PRODUCCION",26/11/2013 00:00:00,"03:57:"
+"05","200","ADMINISTRACION",26/11/2013 00:00:00,"03:57:"
+"05","300","VENTAS",26/11/2013 00:00:00,"03:57:"
+"06","BA","BOLETO AEREO                                              05",26/11/2013 00:00:00,"03:57:"
+"06","BN","BOLETOS TRANS. NACIONAL DE PASAJ.                         16",11/10/2019 00:00:00,"15:48:"
+"06","BT","BOLETOS SERV. TRANS. TERRESTRE DE PASAJ                   15",11/10/2019 00:00:00,"15:30:"
+"06","BV","BOLETA DE VENTA                                           03",26/11/2013 00:00:00,"03:57:"
+"06","CA","NOTA DE ABONO/CREDITO NO DOMICILIADO                      97",11/10/2019 00:00:00,"15:27:"
+"06","CD","NOTA DE DEBITO NO DOMICILIADO                             98",11/10/2019 00:00:00,"15:27:"
+"06","CE","NOTA DE ABONO/CREDITO ESPECIAL                            87",11/10/2019 00:00:00,"15:52:"
+"06","CN","COMPROBANTE NO DOMICILIADO                                91",11/10/2019 00:00:00,"15:23:"
+"06","CO","COMPROBANTE DE OPERACIONES                                48",11/10/2019 00:00:00,"15:24:"
+"06","CP","CARTA PORTE AEREO/SERV.CARGA                              06",26/11/2013 00:00:00,"03:57:"
+"06","DA","DOCUMENTO AUTORIZADO                                      30",11/10/2019 00:00:00,"15:25:"
+"06","DB","DOCUMENTO DE ATRIBUCION                                   25",11/10/2019 00:00:00,"15:25:"
+"06","DE","NOTA DE DEBITO ESPECIAL                                   88",11/10/2019 00:00:00,"15:52:"
+"06","DR","DETRACCION",26/11/2013 00:00:00,"03:57:"
+"06","FT","FACTURA                                                   01",26/11/2013 00:00:00,"03:57:"
+"06","GS","GUIA REMISION                                             09",26/11/2013 00:00:00,"03:57:"
+"06","LB","LIQUIDACION BANCOS/INST.FINAN/SEGUROS                     13",26/11/2013 00:00:00,"03:57:"
+"06","LE","LETRA",26/11/2013 00:00:00,"03:57:"
+"06","LQ","LIQUIDACION DE COMPRA                                     04",26/11/2013 00:00:00,"03:57:"
+"06","NA","NOTA DE ABONO",26/11/2013 00:00:00,"03:57:"
+"06","NC","NOTA DE CREDITO                                           07",21/10/2019 00:00:00,"11:36:"
+"06","ND","NOTA DE DEBITO                                            08",26/11/2013 00:00:00,"03:57:"
+"06","OT","OTROS                                                     00",11/10/2019 00:00:00,"15:59:"
+"06","PA","ANTICIPO",26/11/2013 00:00:00,"03:57:"
+"06","PB","POLIZA BOLSA/AGENTES                                      11",26/11/2013 00:00:00,"03:57:"
+"06","PG","PAGARE",26/11/2013 00:00:00,"03:57:"
+"06","PL","PLANILLA",26/11/2013 00:00:00,"03:57:"
+"06","PR","PRESTAMO",26/11/2013 00:00:00,"03:57:"
+"06","RA","RECIBO ARRENDAMIENTO                                      10",26/11/2013 00:00:00,"03:57:"
+"06","RC","RECIBO SERV.PUBLICOS                                      14",26/11/2013 00:00:00,"03:57:"
+"06","RH","RECIBO DE HONORARIOS                                      02",26/11/2013 00:00:00,"03:57:"
+"06","RL","RESUMEN DE LIQUI. ADUANAS                                 50",26/11/2013 00:00:00,"03:57:"
+"06","TK","TIKECT                                                    12",26/11/2013 00:00:00,"03:57:"
+"06","VR","VARIOS",26/11/2013 00:00:00,"03:57:"
+"07",,"SIN ANEXO",26/11/2013 00:00:00,"03:57:"
+"07","0","CTAS CTES BANCOS",26/11/2013 00:00:00,"03:57:"
+"07","A","ACCIONISTAS",26/11/2013 00:00:00,"03:57:"
+"07","B","ENTIDAD FINANCIERA",26/11/2013 00:00:00,"03:57:"
+"07","C","CLIENTES",26/11/2013 00:00:00,"03:57:"
+"07","F","FONDOS FIJOS",26/11/2013 00:00:00,"03:57:"
+"07","H","HONORARIOS",26/11/2013 00:00:00,"03:57:"
+"07","N","CONCEPTOS PATRIMONIALES",26/11/2013 00:00:00,"03:57:"
+"07","P","PROVEEDORES",26/11/2013 00:00:00,"03:57:"
+"07","T","TRABAJADORES",26/11/2013 00:00:00,"03:57:"
+"07","V","VARIOS",26/11/2013 00:00:00,"03:57:"
+"08","A","ACTIVO",26/11/2013 00:00:00,"03:57:"
+"08","G","GANANCIAS Y PERDIDAS",26/11/2013 00:00:00,"03:57:"
+"08","O","ORDEN",26/11/2013 00:00:00,"03:57:"
+"08","P","PASIVO Y PATRIMONIO",26/11/2013 00:00:00,"03:57:"
+"08","V","GESTION VARIAS",26/11/2013 00:00:00,"03:57:"
+"08","X","TITULOS",26/11/2013 00:00:00,"03:57:"
+"09","1","SALDO x CUENTA (SIN ANALISIS)",26/11/2013 00:00:00,"03:57:"
+"09","2","SALDO x CUENTA y ANEXO",26/11/2013 00:00:00,"03:57:"
+"09","3","SALDO x CUENTA, ANEXO y DOCUMENTO",26/11/2013 00:00:00,"03:57:"
+"10","1000","ACTIVOS",26/11/2013 00:00:00,"03:57:"
+"10","1100","ACTIVOS CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","1101","Efectivo y Equivalentes de Efectivo                     2101",26/11/2013 00:00:00,"03:57:"
+"10","1102","Inversiones Financieras",26/11/2013 00:00:00,"03:57:"
+"10","1103","Cuentas por Cobrar Comerciales-Terceros",26/11/2013 00:00:00,"03:57:"
+"10","1104","Cuentas por Cobrar Comerciales-Relacionados",26/11/2013 00:00:00,"03:57:"
+"10","1105","Cuentas por cobrar Al Personal,Acc.(Socios) y Dir.",26/11/2013 00:00:00,"03:57:"
+"10","1106","Cuentas por Cobrar Diversas-Terceros",26/11/2013 00:00:00,"03:57:"
+"10","1107","Cuentas por Cobrar Diversas-Relacionados",26/11/2013 00:00:00,"03:57:"
+"10","1108","Otras Cuentas por Cobrar",26/11/2013 00:00:00,"03:57:"
+"10","1109","Servicios y Otros Contratados por Anticipado",26/11/2013 00:00:00,"03:57:"
+"10","1110","Mercaderias y Materias Primas",26/11/2013 00:00:00,"03:57:"
+"10","1111","Materiales Auxiliares, Suministros y Respuestos",10/10/2019 00:00:00,"17:57:"
+"10","1112","Activos no Corrientes Mantenidos para la Venta",10/10/2019 00:00:00,"17:58:"
+"10","1113","Activos Biolægicos",10/10/2019 00:00:00,"17:58:"
+"10","1114","Activos Diferidos",10/10/2019 00:00:00,"17:58:"
+"10","1115","Otros Activos",10/10/2019 00:00:00,"17:58:"
+"10","1199","       TOTAL ACTIVOS CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","1300","ACTIVOS NO CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","1301","Inversiones Financieras",26/11/2013 00:00:00,"03:57:"
+"10","1302","Cuentas por Cobrar Comerciales-Terceros",26/11/2013 00:00:00,"03:57:"
+"10","1303","Cuentas por Cobrar Comerciales-Relacionados",26/11/2013 00:00:00,"03:57:"
+"10","1304","Cuentas por cobrar Al Personal, Acc.(Socios) y Directores",26/11/2013 00:00:00,"03:57:"
+"10","1305","Cuentas por Cobrar Diversas-Terceros",26/11/2013 00:00:00,"03:57:"
+"10","1306","Cuentas por Cobrar Diversas-Relacionados",26/11/2013 00:00:00,"03:57:"
+"10","1307","Otras Cuentas por Cobrar",26/11/2013 00:00:00,"03:57:"
+"10","1308","Mercaderias",26/11/2013 00:00:00,"03:57:"
+"10","1309","Materiales Auxiliares, Suministros y Respuestos",26/11/2013 00:00:00,"03:57:"
+"10","1310","Activos no Corrientes Mantenidos para la Venta",26/11/2013 00:00:00,"03:57:"
+"10","1311","Inversiones Mobiliarias",26/11/2013 00:00:00,"03:57:"
+"10","1312","Propiedades de Inversiæn",26/11/2013 00:00:00,"03:57:"
+"10","1313","Activos por Derecho de Uso",11/10/2019 00:00:00,"10:46:"
+"10","1314","Propiedad, Planta y Equipo",11/10/2019 00:00:00,"10:47:"
+"10","1315","Intangibles",11/10/2019 00:00:00,"10:47:"
+"10","1316","Activos Biologicos",11/10/2019 00:00:00,"10:47:"
+"10","1317","Activos Diferidos",11/10/2019 00:00:00,"10:47:"
+"10","1318","Otros Activos",11/10/2019 00:00:00,"10:47:"
+"10","1399","      TOTAL ACTIVOS NO CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","1999","     TOTAL ACTIVOS",26/11/2013 00:00:00,"03:57:"
+"10","2000","PASIVOS Y PATRIMONIO",26/11/2013 00:00:00,"03:57:"
+"10","2100","PASIVOS CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","2101","Sobregiros Bancarios",26/11/2013 00:00:00,"03:57:"
+"10","2102","Tributos,Contrapr.y Aportes a S.P.P y de Salud",26/11/2013 00:00:00,"03:57:"
+"10","2103","Impuesto a la Renta y Participaciones Corrientes",26/11/2013 00:00:00,"03:57:"
+"10","2104","Remuneraciones y Participaciones por Pagar",26/11/2013 00:00:00,"03:57:"
+"10","2105","Cuentas por Pagar Comerciales-Terceros",26/11/2013 00:00:00,"03:57:"
+"10","2106","Cuentas por Pagar Comerciales-Relacionados",26/11/2013 00:00:00,"03:57:"
+"10","2107","Ctas por Pagar a los Acc.(Socios,part›c.)y Direct.",26/11/2013 00:00:00,"03:57:"
+"10","2108","Obligaciones Financieras",26/11/2013 00:00:00,"03:57:"
+"10","2109","Cuentas por pagar Diversas-Terceros",11/10/2019 00:00:00,"10:52:"
+"10","2110","Cuentas por pagar Diversas-Relacionados",11/10/2019 00:00:00,"10:52:"
+"10","2111","Otras Cuentas por Pagar",11/10/2019 00:00:00,"10:53:"
+"10","2112","Provisiones",11/10/2019 00:00:00,"10:53:"
+"10","2113","Pasivo Diferido",11/10/2019 00:00:00,"10:53:"
+"10","2114","Pasivos Mantenidos para la Venta",11/10/2019 00:00:00,"10:53:"
+"10","2199","     TOTAL PASIVOS CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","2200","PASIVOS NO CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","2201","Obligaciones Financieras",26/11/2013 00:00:00,"03:57:"
+"10","2202","Tributos, Contrapr.y Aportes al S.P.P. y de Salud",26/11/2013 00:00:00,"03:57:"
+"10","2203","Impuesto a la Renta y Participaciones Corrientes",26/11/2013 00:00:00,"03:57:"
+"10","2204","Cuentas por Pagar Comerciales-Terceros",26/11/2013 00:00:00,"03:57:"
+"10","2205","Cuentas por Pagar Comerciales-Relacionados",26/11/2013 00:00:00,"03:57:"
+"10","2206","Cuentas por Pagar a los Acc.(Socios,part›cipes) y Directores",26/11/2013 00:00:00,"03:57:"
+"10","2207","Obligaciones Financieras",26/11/2013 00:00:00,"03:57:"
+"10","2208","Cuentas por pagar Diversas-Terceros",11/10/2019 00:00:00,"10:59:"
+"10","2209","Cuentas por pagar Diversas-Relacionados",11/10/2019 00:00:00,"10:59:"
+"10","2210","Otras Cuentas por Pagar",11/10/2019 00:00:00,"11:00:"
+"10","2211","Provisiones",11/10/2019 00:00:00,"11:00:"
+"10","2212","Pasivos Diferidos",11/10/2019 00:00:00,"11:00:"
+"10","2299","     TOTAL PASIVOS NO CORRIENTES",26/11/2013 00:00:00,"03:57:"
+"10","3000","PATRIMONIO NETO",26/11/2013 00:00:00,"03:57:"
+"10","3101","Capital",26/11/2013 00:00:00,"03:57:"
+"10","3102","Acciones de Inversiæn",26/11/2013 00:00:00,"03:57:"
+"10","3103","Capital Adicional",26/11/2013 00:00:00,"03:57:"
+"10","3104","Resultados no Realizables",26/11/2013 00:00:00,"03:57:"
+"10","3105","Excedente de Revaluaciæn",26/11/2013 00:00:00,"03:57:"
+"10","3106","Reservas",26/11/2013 00:00:00,"03:57:"
+"10","3107","Resultados Acumulados",26/11/2013 00:00:00,"03:57:"
+"10","3108","Diferencias de Conversiæn",26/11/2013 00:00:00,"03:57:"
+"10","3110","RESULTADO DEL EJERCICIO",26/11/2013 00:00:00,"03:57:"
+"10","3199","Total Patrimonio Neto Atribuible a la Matriz",26/11/2013 00:00:00,"03:57:"
+"10","3201","Ingresos Minoritarios",26/11/2013 00:00:00,"03:57:"
+"10","3899","     TOTAL PATRIMONIO NETO",26/11/2013 00:00:00,"03:57:"
+"10","3999","    TOTAL PASIVOS Y PATRIMONIO NETO",26/11/2013 00:00:00,"03:57:"
+"11","1100","INGRESOS OPERACIONALES:",26/11/2013 00:00:00,"03:57:"
+"11","1101","Ventas Netas (Ingresos Operacionales)  -",26/11/2013 00:00:00,"03:57:"
+"11","1103","Otros Ingresos Operacionales           -",26/11/2013 00:00:00,"03:57:"
+"11","1199","    Total Ingresos Brutos              -",26/11/2013 00:00:00,"03:57:"
+"11","1200","COSTO DE VENTAS:",26/11/2013 00:00:00,"03:57:"
+"11","1203","Costo de Ventas (Operacionales)        -",26/11/2013 00:00:00,"03:57:"
+"11","1204","Otros Costos Operacionales             -",26/11/2013 00:00:00,"03:57:"
+"11","1299","    Total Costos Operacionales         -",26/11/2013 00:00:00,"03:57:"
+"11","1301","    UTILIDAD BRUTA                     -",26/11/2013 00:00:00,"03:57:"
+"11","1301F","1199,1299",26/11/2013 00:00:00,"03:57:"
+"11","1409","Gastos de Ventas                       -",26/11/2013 00:00:00,"03:57:"
+"11","1411","Gastos de Administraciæn               -",26/11/2013 00:00:00,"03:57:"
+"11","1412","Ganancia (P⁄rdida) por Venta de Activos-",26/11/2013 00:00:00,"03:57:"
+"11","1413","Otros Ingresos                         -",26/11/2013 00:00:00,"03:57:"
+"11","1414","Otros Gastos                           -",26/11/2013 00:00:00,"03:57:"
+"11","1501","    UTILIDAD OPERATIVA                 -",26/11/2013 00:00:00,"03:57:"
+"11","1501F","1301,1409,1411,1412,1413,1414",26/11/2013 00:00:00,"03:57:"
+"11","1621","Ingresos Financieros                   -",26/11/2013 00:00:00,"03:57:"
+"11","1622","Gastos Financieros                     -",26/11/2013 00:00:00,"03:57:"
+"11","1623","Participaciæn en los Resultados        -",26/11/2013 00:00:00,"03:57:"
+"11","1628","Ganancia (P⁄rdida) por Inst.Financieros-",26/11/2013 00:00:00,"03:57:"
+"11","1631","    RESULTADO ANTES DE IMPTO RENTA     -",26/11/2013 00:00:00,"03:57:"
+"11","1631F","1501,1621,1622,1623,1628",26/11/2013 00:00:00,"03:57:"
+"11","1651","Participaciæn de los Trabajadores      -",26/11/2013 00:00:00,"03:57:"
+"11","1652","Impuesto a la Renta",26/11/2013 00:00:00,"03:57:"
+"11","1661","UTILIDAD (PERDIDA) NETA DE ACT. CONT.  -",26/11/2013 00:00:00,"03:57:"
+"11","1661F","1631,1651,1652",26/11/2013 00:00:00,"03:57:"
+"11","1671","Ingreso (Gasto) Neto de Oper. Discont. -",26/11/2013 00:00:00,"03:57:"
+"11","1999","    UTILIDAD (PERDIDA) DEL EJERCICIO   -",26/11/2013 00:00:00,"03:57:"
+"11","1999F","1661,1671",26/11/2013 00:00:00,"03:57:"
+"12","0005","INGRESOS                               -",26/11/2013 00:00:00,"03:57:"
+"12","0010","MATERIAS PRIMAS                        -",26/11/2013 00:00:00,"03:57:"
+"12","0020","SUMINISTROS DIVERSOS                   -",26/11/2013 00:00:00,"03:57:"
+"12","0030","ENVASES Y EMBALAJES                    -",26/11/2013 00:00:00,"03:57:"
+"12","0050","GASTOS DE PERSONAL                     -",26/11/2013 00:00:00,"03:57:"
+"12","0100","TRANSPORTE Y ALMACENAMIENTO            -",26/11/2013 00:00:00,"03:57:"
+"12","0110","TELEFONO                               -",26/11/2013 00:00:00,"03:57:"
+"12","0111","INTERNET                               -",26/11/2013 00:00:00,"03:57:"
+"12","0113","HONORARIOS PROFESIONALES               -",26/11/2013 00:00:00,"03:57:"
+"12","0120","MANTENIMIENTO Y REPARACION             -",26/11/2013 00:00:00,"03:57:"
+"12","0130","ALQUILERES                             -",26/11/2013 00:00:00,"03:57:"
+"12","0140","ELECTRICIDAD                           -",26/11/2013 00:00:00,"03:57:"
+"12","0150","AGUA                                   -",26/11/2013 00:00:00,"03:57:"
+"12","0160","OTROS SERVICIOS                        -",26/11/2013 00:00:00,"03:57:"
+"12","0170","SEGUROS                                -",26/11/2013 00:00:00,"03:57:"
+"12","0190","OTROS GASTOS                           -",26/11/2013 00:00:00,"03:57:"
+"12","0200","DEPRECIACION                           -",26/11/2013 00:00:00,"03:57:"
+"12","0210","PROVISIONES                            -",26/11/2013 00:00:00,"03:57:"
+"12","0500","TRIBUTOS                               -",26/11/2013 00:00:00,"03:57:"
+"13","1001","Ventas netas de Mercaderias            -",26/11/2013 00:00:00,"03:57:"
+"13","1003","    Compras de Mercaderias             -",26/11/2013 00:00:00,"03:57:"
+"13","1005","    Variaciæn de Mercaderias           -",26/11/2013 00:00:00,"03:57:"
+"13","1099","    MARGEN COMERCIAL                   -",26/11/2013 00:00:00,"03:57:"
+"13","1101","Ventas netas de Productos              -",26/11/2013 00:00:00,"03:57:"
+"13","1103","Producciæn almacenada                  -",26/11/2013 00:00:00,"03:57:"
+"13","1104","Producciæn Inmovilizada                -",26/11/2013 00:00:00,"03:57:"
+"13","1150","    PRODUCCION DEL EJERCICIO           -",26/11/2013 00:00:00,"03:57:"
+"13","1150F","1101,1103,1104",26/11/2013 00:00:00,"03:57:"
+"13","1170","                                       -",26/11/2013 00:00:00,"03:57:"
+"13","1170F","1099,1150                              -",26/11/2013 00:00:00,"03:57:"
+"13","1200","Consumo :                              -",26/11/2013 00:00:00,"03:57:"
+"13","1201","    Compra materias primas y aux.      -",26/11/2013 00:00:00,"03:57:"
+"13","1202","    Compra suministros diversos        -",26/11/2013 00:00:00,"03:57:"
+"13","1203","    Variaciæn de materias primas y aux.-",26/11/2013 00:00:00,"03:57:"
+"13","1204","    Variaciæn existencias sum.diversos -",26/11/2013 00:00:00,"03:57:"
+"13","1250","                                       -",26/11/2013 00:00:00,"03:57:"
+"13","1250F","1201,1202,1203,1204                    -",26/11/2013 00:00:00,"03:57:"
+"13","1270","    VALOR AGREGADO                     -",26/11/2013 00:00:00,"03:57:"
+"13","1270F","1170,1250                              -",26/11/2013 00:00:00,"03:57:"
+"13","1401","   - Servicios prestados por terceros  -",26/11/2013 00:00:00,"03:57:"
+"13","1401L",,26/11/2013 00:00:00,"03:57:"
+"13","1501","     VALOR AGREGADO                    -",26/11/2013 00:00:00,"03:57:"
+"13","1501F","1270,1401                              -",26/11/2013 00:00:00,"03:57:"
+"13","1601","Cargas de personal                     -",26/11/2013 00:00:00,"03:57:"
+"13","1603","Tributos                               -",26/11/2013 00:00:00,"03:57:"
+"13","1603L",,26/11/2013 00:00:00,"03:57:"
+"13","1701","     EXCEDENTE BRUTO DE EXPLOTACION    -",26/11/2013 00:00:00,"03:57:"
+"13","1701F","1501,1601,1603                         -",26/11/2013 00:00:00,"03:57:"
+"13","1801","   - Cargas diversas de gestiÛn        -",26/11/2013 00:00:00,"03:57:"
+"13","1802","   - Provisiones del ejercicio         -",26/11/2013 00:00:00,"03:57:"
+"13","1803","   - Ingresos diversos (inc. desc.)    -",26/11/2013 00:00:00,"03:57:"
+"13","1901","     RESULTADO DE EXPLOTACION          -",26/11/2013 00:00:00,"03:57:"
+"13","1901F","1701,1801,1802,1803                    -",26/11/2013 00:00:00,"03:57:"
+"13","1903L",,26/11/2013 00:00:00,"03:57:"
+"13","2001","   + Ingresos financieros              -",26/11/2013 00:00:00,"03:57:"
+"13","2002","   + Ingresos excepcionales            -",26/11/2013 00:00:00,"03:57:"
+"13","2003","   - Cargas excepcionales              -",26/11/2013 00:00:00,"03:57:"
+"13","2004","   - Cargas financieras                -",26/11/2013 00:00:00,"03:57:"
+"13","2004L",,26/11/2013 00:00:00,"03:57:"
+"13","2101","     RESULTADO ANTES DE PAR. E IMP.    -",26/11/2013 00:00:00,"03:57:"
+"13","2101F","1901,2001,2002,2003,2004               -",26/11/2013 00:00:00,"03:57:"
+"13","2103","   - Rei del ejercicio                 -",26/11/2013 00:00:00,"03:57:"
+"13","2201","   - Impuesto a la renta               -",26/11/2013 00:00:00,"03:57:"
+"13","2201RL",,26/11/2013 00:00:00,"03:57:"
+"13","5501","     RESULTADO DEL EJERCICIO           -",26/11/2013 00:00:00,"03:57:"
+"13","5501F","2101,2103,2201                         -",26/11/2013 00:00:00,"03:57:"
+"15","CH","CHEQUE                                                     H",26/11/2013 00:00:00,"03:57:"
+"15","EN","ENTREGA (DEPOSITO)                                         D",26/11/2013 00:00:00,"03:57:"
+"15","NA","NOTA DE ABONO                                              D",26/11/2013 00:00:00,"03:57:"
+"15","ND","NOTA DE DEBITO                                             H",26/11/2013 00:00:00,"03:57:"
+"15","XA","EXTORNO ABONO                                              D",26/11/2013 00:00:00,"03:57:"
+"15","XC","EXTORNO CARGO                                              H",26/11/2013 00:00:00,"03:57:"
+"16","010","*** C H E Q U E S ***",26/11/2013 00:00:00,"03:57:"
+"16","012","CHEQUES CANCELADOS",26/11/2013 00:00:00,"03:57:"
+"16","014","CHEQUES GIRADOS PENDIENTES DE COBRO",26/11/2013 00:00:00,"03:57:"
+"16","016","CHEQUES COBRADOS NO CONTABILIZADOS EN LIBROS",26/11/2013 00:00:00,"03:57:"
+"16","020","*** NOTAS DE DEBITO / CARGO ***",26/11/2013 00:00:00,"03:57:"
+"16","022","NOTAS DE DEBITO (CARGO) CANCELADAS",26/11/2013 00:00:00,"03:57:"
+"16","024","NOTAS DE DEBITO (CARGO) NO REGISTRADAS POR EL BANCO",26/11/2013 00:00:00,"03:57:"
+"16","026","NOTAS DE DEBITO (CARGO) NO CONTABILIZADAS EN LIBROS",26/11/2013 00:00:00,"03:57:"
+"16","030","*** NOTAS DE ABONO / ENTREGAS ***",26/11/2013 00:00:00,"03:57:"
+"16","032","NOTAS DE ABONO / ENTREGAS CANCELADAS",26/11/2013 00:00:00,"03:57:"
+"16","034","NOTAS DE ABONO / ENTREGAS NO REGISTRADAS POR EL BANCO",26/11/2013 00:00:00,"03:57:"
+"16","036","NOTAS DE ABONO / ENTREGAS NO CONTABILIZADAS EN LIBROS",26/11/2013 00:00:00,"03:57:"
+"16","090","REGULARIZACIONES MANUALES",26/11/2013 00:00:00,"03:57:"
+"16","092","REGULARIZACIONES MANUALES",26/11/2013 00:00:00,"03:57:"
+"17","C","CAMBIO ESPECIAL",26/11/2013 00:00:00,"03:57:"
+"17","F","DE ACUERDO A FECHA",26/11/2013 00:00:00,"03:57:"
+"17","M","TABLA DIARIA (M) COMPRA",26/11/2013 00:00:00,"03:57:"
+"17","V","TABLA DIARIA (V) VENTA",26/11/2013 00:00:00,"03:57:"
+"18","A","ANULADA",26/11/2013 00:00:00,"03:57:"
+"18","V","VIGENTE",26/11/2013 00:00:00,"03:57:"
+"19","A","AUTOMATICA",26/11/2013 00:00:00,"03:57:"
+"19","M","MANUAL",26/11/2013 00:00:00,"03:57:"
+"26","001","APERTURA                                                 000",26/11/2013 00:00:00,"03:57:"
+"26","002","TRANSFERENCIAS",26/11/2013 00:00:00,"03:57:"
+"26","010","COBRANZA A CLIENTES                                      101",26/11/2013 00:00:00,"03:57:"
+"26","011","HONORARIOS Y COMISIONES",26/11/2013 00:00:00,"03:57:"
+"26","012","INTERESES",26/11/2013 00:00:00,"03:57:"
+"26","013","DIVIDENDOS",26/11/2013 00:00:00,"03:57:"
+"26","014","REGALIAS",26/11/2013 00:00:00,"03:57:"
+"26","020","OTROS COBROS DE EFECTIVO RELAT. A LA ACTIV. DE OPERACION 101",26/11/2013 00:00:00,"03:57:"
+"26","030","MOVILIDAD",26/11/2013 00:00:00,"03:57:"
+"26","050","PAGOS A PROVEEDORES                                      201",26/11/2013 00:00:00,"03:57:"
+"26","060","PAGOS DE REMUNERACIONES Y BENEFICIOS SOCIALES            201",26/11/2013 00:00:00,"03:57:"
+"26","061","TRIBUTOS",26/11/2013 00:00:00,"03:57:"
+"26","062","INTERESES",26/11/2013 00:00:00,"03:57:"
+"26","063","REGALIAS",26/11/2013 00:00:00,"03:57:"
+"26","070","OTROS EGRESOS DE EFECT. RELAT. A LA ACTIV. DE OPERACION  201",26/11/2013 00:00:00,"03:57:"
+"26","110","INGRESOS POR VENTA DE VALORES",26/11/2013 00:00:00,"03:57:"
+"26","111","PRESTAMOS VINCULADOS",26/11/2013 00:00:00,"03:57:"
+"26","120","INGRESOS POR VENTA DE INMUEBLES MAQUINARIA Y EQUIPO",26/11/2013 00:00:00,"03:57:"
+"26","121","VENTA DE ACTIVOS INTANGIBLES",26/11/2013 00:00:00,"03:57:"
+"26","122","INTERESES",26/11/2013 00:00:00,"03:57:"
+"26","123","DIVIDENDOS",26/11/2013 00:00:00,"03:57:"
+"26","130","OTROS INGRESOS RELATIVOS A LA ACTIV. DE INVERSION",26/11/2013 00:00:00,"03:57:"
+"26","159","PRESTAMOS OTORGADOS",26/11/2013 00:00:00,"03:57:"
+"26","160","PAGOS POR COMPRA DE INMUEBLES MAQUINARIA Y EQUIPO",26/11/2013 00:00:00,"03:57:"
+"26","170","PAGOS POR COMPRA DE VALORES",26/11/2013 00:00:00,"03:57:"
+"26","180","OTROS PAGOS EFECTIVOS RELATIVOS A LA ACTIV. DE INVERSION",26/11/2013 00:00:00,"03:57:"
+"26","200","INGRESOS POR EMISION DE ACCIONES O NVOS. APORTES",26/11/2013 00:00:00,"03:57:"
+"26","210","INGRESOS POR PRESTAMOS BANCARIOS A CORTO Y LARGO PLAZO",26/11/2013 00:00:00,"03:57:"
+"26","211","VENTA DE ACCIONES",26/11/2013 00:00:00,"03:57:"
+"26","212","EMISION POR NUEVOS APORTES",26/11/2013 00:00:00,"03:57:"
+"26","220","INGRESOS PROV.DE EMISION DE BONOS,HIPOTECAS Y OTROS TITULOS",26/11/2013 00:00:00,"03:57:"
+"26","230","OTROS INGRESOS EFECTIVOS RELATIV. A LA ACTIV.DE FINANCIACION",26/11/2013 00:00:00,"03:57:"
+"26","260","AMORTIZACION DE PRESTAMOS OBTENIDOS",26/11/2013 00:00:00,"03:57:"
+"26","270","RECURSOS PROVENIENTES DE EMISION DE TITULOS-VALORES",26/11/2013 00:00:00,"03:57:"
+"26","280","PAGOS DE DIVIDENDOS Y OTRAS DISTRIBUCIONES",26/11/2013 00:00:00,"03:57:"
+"26","290","OTROS PAGOS EFECTIVOS RELATIV. A LA ACTIV.DE FINANCIACION",26/11/2013 00:00:00,"03:57:"
+"27","F","FINANCIAMIENTO",26/11/2013 00:00:00,"03:57:"
+"27","P","OPERACION",26/11/2013 00:00:00,"03:57:"
+"27","V","INVERSION",26/11/2013 00:00:00,"03:57:"
+"28","00101","Venta Azucar                                   700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00201","Venta Arroz                                    700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00301","Venta Alcohol Etilico                          700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00401","Venta Recursos Hidrobiologicos                 700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","00402","Retiro Recursos Hidrobiologicos                700.00  15.00",15/10/2019 00:00:00,"03:57:"
+"28","00501","Venta Maiz Amarillo Duro                       700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","00502","Retiro Maiz Amarillo Duro                      700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00601","Venta Algodon                                  700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00602","Retiro Algodon                                 700.00  11.00",15/10/2019 00:00:00,"03:57:"
+"28","00603","Transp.Algodon                                 700.00  15.00",15/10/2019 00:00:00,"03:57:"
+"28","00701","Venta Ca±a de Azucar                           700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00702","Retiro Ca±a de Azucar                          700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00801","Venta Madera                                   700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","00901","Venta Arena y Piedra                           700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","00902","Retiro Arena y Piedra                          700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","01001","Venta Residuos-subproductos-desechos-recortes  700.00  15.00",15/10/2019 00:00:00,"03:57:"
+"28","01002","Retiro Residuos-subproductos-desechos-recortes 700.00  15.00",15/10/2019 00:00:00,"03:57:"
+"28","01101","Bienes del inciso A) del Apendice I de la Ley d700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","01201","Venta Serv.de Int. Laboral Grav con IGV y Ter  700.00  12.00",15/10/2019 00:00:00,"03:57:"
+"28","01202","Retiro Serv.de Int. Laboral Grav con IGV y Ter  700.00 14.00",15/10/2019 00:00:00,"16:54:"
+"28","01301","Venta Animales Vivos                           700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","01302","Retiro Animales Vivos                          700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","01401","Venta Carnes y despojos comestibles            700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","01402","Retiro Carnes y despojos comestibles           700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","01501","Venta Abonos-cueros y pieles de origen animal  700.00   4.00",15/10/2019 00:00:00,"03:57:"
+"28","01502","RetiroAbonos-cueros y pieles de origen animal  700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","01601","Venta Aceite de pescado                        700.00   9.00",15/10/2019 00:00:00,"03:57:"
+"28","01701","Venta Harina - polvo y pellets de pescado      700.00   9.00",15/10/2019 00:00:00,"03:57:"
+"28","01801","Venta Embarcaciones Pesqueras                  700.00   9.00",15/10/2019 00:00:00,"03:57:"
+"28","01901","Venta Arrendamiento de bienes Muebles          700.00   9.00",15/10/2019 00:00:00,"03:57:"
+"28","01902","Retiro Arrendamiento de bienes Muebles         700.00  12.00",15/10/2019 00:00:00,"03:57:"
+"28","02001","Venta Mant. y Reparaciæn de Bienes Muebles     700.00  12.00",15/10/2019 00:00:00,"03:57:"
+"28","02101","Venta Movimiento de carga                      700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","02102","Retiro Movimiento de carga                     700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","02201","Venta Otros servicios empresariales            700.00  12.00",15/10/2019 00:00:00,"03:57:"
+"28","02202","Retiro Otros servicios empresariales           700.00  14.00",15/10/2019 00:00:00,"03:57:"
+"28","02301","Venta Leche                                     700.00  4.00",15/10/2019 00:00:00,"16:53:"
+"28","02401","Venta Comisiæn Mercantil                       700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","02501","Venta Fabricacion de bienes por encargo        700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","02601","Venta Servicio de Transporte de Personas       700.00  10.00",15/10/2019 00:00:00,"03:57:"
+"28","02701","Venta Servicio de transportes de bienes        400.00   8.00",15/10/2019 00:00:00,"03:57:"
+"28","02702","Retiro Servicio de transportes de bienes        400.00  4.00",15/10/2019 00:00:00,"03:57:"
+"29","01","COMBUSTIBLES                                           1.00",26/11/2013 00:00:00,"03:57:"
+"29","02","IMPORTACIONES ART. 4 LIT.a)                            10.00",26/11/2013 00:00:00,"03:57:"
+"29","03","IMPORTACIONES ART. 4 LIT.b)                            5.00",26/11/2013 00:00:00,"03:57:"
+"29","04","IMPORTACIONES ART. 4 LIT.c)                            3.50",26/11/2013 00:00:00,"03:57:"
+"29","05","VENTAS INTERNAS - ART 5 LIT.a)                         10.00",26/11/2013 00:00:00,"03:57:"
+"29","06","VENTAS INTERNAS - ART 5 LIT.b)                         2.00",26/11/2013 00:00:00,"03:57:"
+"29","07","VENTAS INTERNAS - ART 5 LIT.c)                         0.50",26/11/2013 00:00:00,"03:57:"
+"41","S","SALDAR",26/11/2013 00:00:00,"03:57:"
+"41","T","TRANSFERIR",26/11/2013 00:00:00,"03:57:"
+"41","X","OMITIR",26/11/2013 00:00:00,"03:57:"
+"42","21","INGRESOS",26/11/2013 00:00:00,"03:57:"
+"42","22","EGRESOS",26/11/2013 00:00:00,"03:57:"
+"49","1","CUENTA CORRIENTE",26/11/2013 00:00:00,"03:57:"
+"49","3","CUENTA AHORROS",26/11/2013 00:00:00,"03:57:"
+"49","5","CAJA EFECTIVO",26/11/2013 00:00:00,"03:57:"
+"53","CTA01","MN42     421201    FACTURAS EMITIDAS POR PAGAR M.N. TE",19/10/2019 00:00:00,"10:56:"
+"53","CTA02","US42     421202    FACTURAS EMITIDAS POR PAGAR M.E. TE",19/10/2019 00:00:00,"10:56:"
+"53","CTA03","MN42     421203    DETRACCIONES POR PAGAR MN",19/10/2019 00:00:00,"10:56:"
+"53","CTA04","MN43     431101    FACTURAS NO EMITIDAS POR PAGAR RELA",19/10/2019 00:00:00,"10:57:"
+"53","CTA05","US43     431102    FACTURAS NO EMITIDAS POR PAGAR RELA",19/10/2019 00:00:00,"10:57:"
+"53","CTA06","MN43     431201    FACTURAS EMITIDAS POR PAGAR M.N. RE",19/10/2019 00:00:00,"10:57:"
+"53","CTA07","US43     431202    FACTURAS EMITIDAS POR PAGAR M.E. RE",19/10/2019 00:00:00,"10:57:"
+"53","DET4UIT","400",14/10/2019 00:00:00,"16:53:"
+"53","DETCTA","         421203        DETRACCIONES POR PAGAR MN",14/10/2019 00:00:00,"16:53:"
+"53","DETDOC","DR       H         DETRACCION",14/10/2019 00:00:00,"16:53:"
+"53","DOC01","FT       H         FACTURAS",26/11/2013 00:00:00,"03:57:"
+"53","DOC02","ND       H         NOTA DE DEBITO",26/11/2013 00:00:00,"03:57:"
+"53","DOC03","NC       D         NOTA DE CREDITO",21/10/2019 00:00:00,"11:37:"
+"53","DOC04","BV       H         BOLETA DE VENTA",26/11/2013 00:00:00,"03:57:"
+"53","DOC05","RL       H         RESUMEN LIQ. ADUANAS",26/11/2013 00:00:00,"03:57:"
+"53","DOC06","TK       H         TICKET",26/11/2013 00:00:00,"03:57:"
+"53","DOC07","LB       H         LIQUID. BANCOS",26/11/2013 00:00:00,"03:57:"
+"53","DOC08","BA       H         BOLETO AEREO",26/11/2013 00:00:00,"03:57:"
+"53","DOC09","RC       H         RECIBO SEV./PUBL.                       V",15/10/2019 00:00:00,"15:40:"
+"53","IGV","         401111        IGV - CUENTA PROPIA",10/10/2019 00:00:00,"17:45:"
+"53","ORDIGV","N",10/10/2019 00:00:00,"17:45:"
+"53","SUB01","11                 REGISTRO COMPRAS LOCALES - VTAS GRA     1",19/10/2019 00:00:00,"10:57:"
+"53","SUB02","12                 REGISTRO COMPRAS IMPORTACIONES - VT     1",19/10/2019 00:00:00,"10:58:"
+"53","SUB03","13                 REGISTRO COMPRAS - VTAS GRAV. Y NO      2",19/10/2019 00:00:00,"10:58:"
+"53","SUB04","14                 REGISTRO COMPRAS CON IGV. SIN DEREC     3",19/10/2019 00:00:00,"10:58:"
+"53","SUB05","18                 IGV NO DOMICILIADOS                     1",19/10/2019 00:00:00,"10:58:"
+"53","SUB06","10                 REGISTRO COMPRAS DETRACCIONES           1",19/10/2019 00:00:00,"10:58:"
+"53","TIGV","18.00",10/10/2019 00:00:00,"17:45:"
+"53","XGEN","0000               PROVEEDORES VARIOS",10/10/2019 00:00:00,"17:45:"
+"53","ZZIGV","         401111        IGV - CUENTA PROPIA",10/10/2019 00:00:00,"17:45:"
+"53","ZZSUB01","01                 CAJA EFECTIVO",26/11/2013 00:00:00,"03:57:"
+"53","ZZSUB02","27                 RENDICION DE CUENTA",26/11/2013 00:00:00,"03:57:"
+"54","ACOMI",,10/10/2019 00:00:00,"17:01:"
+"54","AFP01","HA  HABITAT",10/10/2019 00:00:00,"17:01:"
+"54","AFP02","HO  HORIZONTE",10/10/2019 00:00:00,"17:01:"
+"54","AFP03","NV  UNION VIDA",10/10/2019 00:00:00,"17:01:"
+"54","AFP04","IN  INTEGRA",10/10/2019 00:00:00,"17:01:"
+"54","AFP05","PR  PROFUTURO",10/10/2019 00:00:00,"17:01:"
+"54","AFP06","RI  PRIMA",10/10/2019 00:00:00,"17:01:"
+"54","ANSP",,26/11/2013 00:00:00,"06:10:"
+"54","APENS",,10/10/2019 00:00:00,"17:01:"
+"54","ASEGU",,10/10/2019 00:00:00,"17:01:"
+"54","CTA01","         632101         ADMINISTRATIVA",11/10/2019 00:00:00,"15:11:"
+"54","CTA02","         632201         LEGAL Y TRIBUTARIA",11/10/2019 00:00:00,"15:11:"
+"54","CTA03","         632301         AUDITORIA Y CONTABLE",11/10/2019 00:00:00,"15:11:"
+"54","CTA04","         632401         MERCADOTECNIA",11/10/2019 00:00:00,"15:11:"
+"54","CTA05","         632501         MEDIOAMBIENTAL",11/10/2019 00:00:00,"15:11:"
+"54","CTA06","         632601         INVESTIGACION Y DESARROLLO",11/10/2019 00:00:00,"15:11:"
+"54","CTA07","         632701         PRODUCCION",11/10/2019 00:00:00,"15:11:"
+"54","CTA08","         632901         OTROS",11/10/2019 00:00:00,"15:11:"
+"54","CTP01","MN       424101    HONORARIOS POR PAGAR M.N.",19/10/2019 00:00:00,"12:39:"
+"54","CTP02","US       424102    HONORARIOS POR PAGAR M.E.",19/10/2019 00:00:00,"12:39:"
+"54","CTR1","         401721        RENTA DE CUARTA CATEGORIA",26/11/2013 00:00:00,"03:57:"
+"54","DOC01","RH                 RECIBO DE HONORARIOS",19/10/2019 00:00:00,"12:39:"
+"54","FEMA","01/08/73",26/11/2013 00:00:00,"06:10:"
+"54","FEMI","01/08/14",10/10/2019 00:00:00,"17:01:"
+"54","FENA","01/08/73",10/10/2019 00:00:00,"17:01:"
+"54","FRMV","1.5",26/11/2013 00:00:00,"06:10:"
+"54","I4TA","1500",10/10/2019 00:00:00,"17:01:"
+"54","IRMV","750",26/11/2013 00:00:00,"06:10:"
+"54","OPENS",,10/10/2019 00:00:00,"17:01:"
+"54","SP01","01    ONP",26/11/2013 00:00:00,"06:10:"
+"54","SP02","02    AFP",26/11/2013 00:00:00,"06:10:"
+"54","SUB01","15                 REGISTRO DE HONORARIOS",19/10/2019 00:00:00,"12:39:"
+"54","T4TA","10",10/10/2019 00:00:00,"17:01:"
+"54","TC01","01    MIXTA",26/11/2013 00:00:00,"06:10:"
+"54","TC02","02    FLUJO",26/11/2013 00:00:00,"06:10:"
+"54","TOPSE","8451.04",10/10/2019 00:00:00,"17:01:"
+"55","CTA01","121201      FACTURAS POR COBRAR M.N. TERCEROS",26/11/2013 00:00:00,"03:57:"
+"55","CTA02","121202      FACTURAS POR COBRAR M.E.TERCEROS",26/11/2013 00:00:00,"03:57:"
+"55","CTA03","421201      FACTURAS POR PAGAR M.N.TERCEROS",26/11/2013 00:00:00,"03:57:"
+"55","CTA04","421202      FACTURAS POR PAGAR M.E.TERCEROS",26/11/2013 00:00:00,"03:57:"
+"55","CTA05","122101            ANTICIPOS DE CLIENTES TERCEROS M.N.",11/10/2019 00:00:00,"14:18"
+"55","CTA06","122102            ANTICIPOS DE CLIENTES TERCEROS M.E.",11/10/2019 00:00:00,"14:18"
+"55","CTA07","123201            LETRAS POR COBRAR EN CARTERA TERCEROS M.N.",11/10/2019 00:00:00,"14:18"
+"55","CTA08","123202            LETRAS POR COBRAR EN CARTERA TERCEROS US",11/10/2019 00:00:00,"14:18"
+"55","CTA09","123301            LETRAS POR COBRAR EN COBRANZA TERCEROS MN",11/10/2019 00:00:00,"14:18"
+"55","CTA10","123302            LETRAS POR COBRAR EN COBRANZA TERCEROS ME",11/10/2019 00:00:00,"14:18"
+"55","CTA11","123401            LETRAS POR COBRAR EN DESCUENTO TERCEROS MN",11/10/2019 00:00:00,"14:18"
+"55","CTA12","123402            LETRAS POR COBRAR EN DESCUENTO TERCEROS ME",11/10/2019 00:00:00,"14:18"
+"55","CTA13","131111            FACT. POR COBRAR  NO EMITIDA RELACIONADA",11/10/2019 00:00:00,"14:18"
+"55","CTA14","131112            FACT. POR COBRAR  NO EMITIDA RELACIONADA",11/10/2019 00:00:00,"14:18"
+"55","CTA15","131211            FACT. POR COBRAR EMITIDAS EN CARTERA RELAC",11/10/2019 00:00:00,"14:18"
+"55","CTA16","131212            FACT. POR COBRAR EMITIDAS EN CARTERA RELAC",11/10/2019 00:00:00,"14:19"
+"55","CTA17","132111            ANTICIPOS RECIBIDOS RELACIONADAS   M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA18","132112            ANTICIPOS RECIBIDOS RELACIONADAS   M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA19","133111            LETRAS POR COBRAR EN CARTERA RELACIONADA M",11/10/2019 00:00:00,"14:19"
+"55","CTA20","133112            LETRAS POR COBRAR EN CARTERA RELACIONADA M",11/10/2019 00:00:00,"14:19"
+"55","CTA21","141101            PRESTAMOS DE PERSONAL EMPLEADOS M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA22","141102            PRESTAMOS DE PERSONAL EMPLEADOS M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA23","141111            PRESTAMOS DE PERSONAL OBREROS M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA24","141112            PRESTAMOS DE PERSONAL OBREROS M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA25","141301            ENTREGAS A RENDIR CUENTA DE PERSONAL M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA26","141302            ENTREGAS A RENDIR CUENTA DE PERSONAL M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA27","142201            PRESTAMOS ACCIONISTAS (O SOCIOS) PARTICIPA",11/10/2019 00:00:00,"14:19"
+"55","CTA28","142202            PRESTAMOS ACCIONISTAS (O SOCIOS) PARTICIPA",11/10/2019 00:00:00,"14:19"
+"55","CTA29","161101            COBRANZA DIVERSAS PRESTAMOS C/GARANTIA TER",11/10/2019 00:00:00,"14:19"
+"55","CTA30","161102            COBRANZA DIVERSAS PRESTAMOS C/GARANTIA TER",11/10/2019 00:00:00,"14:19"
+"55","CTA31","161111            COBRANZA DIVERSAS PRESTAMOS S/GARANTIA TER",11/10/2019 00:00:00,"14:19"
+"55","CTA32","161112            COBRANZA DIVERSAS PRESTAMOS S/GARANTIA TER",11/10/2019 00:00:00,"14:19"
+"55","CTA33","171111            COBRANZA DIVERSAS PTMOS.C/GARANTIA RELAC.M",11/10/2019 00:00:00,"14:19"
+"55","CTA34","171112            COBRANZA DIVERSAS PTMOS.C/GARANTIA RELAC.M",11/10/2019 00:00:00,"14:19"
+"55","CTA35","171211            COBRANZA DIVERSAS PTMOS.S/GARANTIA RELACIO",11/10/2019 00:00:00,"14:19"
+"55","CTA36","171212            COBRANZA DIVERSAS PTMOS.S/GARANTIA RELACIO",11/10/2019 00:00:00,"14:19"
+"55","CTA37","181101            COSTOS FINANCIEROS M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA38","181102            COSTOS FINANCIEROS M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA39","422101            ANTICIPOS A PROVEEDORES M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA40","422102            ANTICIPOS A PROVEEDORES M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA41","423101            LETRAS POR PAGAR M.N. TERCEROS",11/10/2019 00:00:00,"14:19"
+"55","CTA42","423102            LETRAS POR PAGAR M.E. TERCEROS",11/10/2019 00:00:00,"14:19"
+"55","CTA43","424101            HONORARIOS POR PAGAR M.N.",11/10/2019 00:00:00,"14:19"
+"55","CTA44","424102            HONORARIOS POR PAGAR M.E.",11/10/2019 00:00:00,"14:19"
+"55","CTA45","431201            FACTURAS EMITIDAS POR PAGAR M.N. RELACIONA",11/10/2019 00:00:00,"14:19"
+"55","CTA46","431102            FACTURAS NO EMITIDAS POR PAGAR RELACIONADA",11/10/2019 00:00:00,"14:19"
+"55","CTA47","431101            FACTURAS NO EMITIDAS POR PAGAR RELACIONADA",11/10/2019 00:00:00,"14:20"
+"55","CTA48","431202            FACTURAS EMITIDAS POR PAGAR M.E. RELACIONA",11/10/2019 00:00:00,"14:20"
+"55","CTA49","432101            ANTICIPOS OTORGADOS M.N. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA50","432102            ANTICIPOS OTORGADOS M.E. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA51","433101            LETRAS POR PAGAR M.N. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA52","434101            HONORARIOS POR PAGAR M.N. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA53","433102            LETRAS POR PAGAR M.E. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA54","434102            HONORARIOS POR PAGAR M.E. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA55","441112            PRESTAMOS ACCIONISTAS CORTO PLAZO M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA56","441111            PRESTAMOS ACCIONISTAS CORTO PLAZO M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA57","441121            PRESTAMOS ACCIONISTAS LARGO PLAZO M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA58","441122            PRESTAMOS ACCIONISTAS LARGO PLAZO M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA59","451101            INSTITUCIONES FINANCIERAS M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA60","451102            INSTITUCIONES FINANCIERAS M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA61","452101            LEASING M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA62","452102            LEASING M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA63","452111            LEASEBACK M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA64","452112            LEASEBACK M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA65","454901            CONFIRMING M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA66","454902            CONFIRMING M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA67","454911            FACTORING M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA68","454912            FACTORING M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA69","461101            RECLAMACIONES DE TERCEROS M.N.",11/10/2019 00:00:00,"14:20"
+"55","CTA70","461102            RECLAMACIONES DE TERCEROS M.E.",11/10/2019 00:00:00,"14:20"
+"55","CTA71","471101            PRESTAMOS RECIBIDOS M.N. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","CTA72","471102            PRESTAMOS RECIBIDOS M.E. RELACIONADAS",11/10/2019 00:00:00,"14:20"
+"55","SUB","55          SUBDIARIO DE REG. DIF. CAMBIO",26/11/2013 00:00:00,"03:57:"
+"55","XGA","776101             GANANCIA POR DIFERENCIA DE CAMBIO",26/11/2013 00:00:00,"03:57:"
+"55","XGP","676101             PERDIDA POR DIFERENCIA DE CAMBIO",26/11/2013 00:00:00,"03:57:"
+"56","CTA01","MN12     121201    FACTURAS POR COBRAR EMITIDAS CARTER",19/10/2019 00:00:00,"10:49:"
+"56","CTA02","US12     121202    FACTURAS POR COBRAR EMITIDAS CARTER",19/10/2019 00:00:00,"10:49:"
+"56","CTA03","MN13     131211    FACT. POR COBRAR EMITIDAS EN CARTER",19/10/2019 00:00:00,"10:49:"
+"56","CTA04","US13     131212    FACT. POR COBRAR EMITIDAS EN CARTER",19/10/2019 00:00:00,"10:49:"
+"56","DOC01","FT       D         FACTURA",19/10/2019 00:00:00,"10:55:"
+"56","DOC02","ND       D         NOTA DE DEBITO",19/10/2019 00:00:00,"10:55:"
+"56","DOC03","NC       H         NOTA DE CREDITO",21/10/2019 00:00:00,"11:37:"
+"56","DOC04","BV       D         BOLETA                                  S",19/10/2019 00:00:00,"10:55:"
+"56","IGV","         401111        IGV - CUENTA PROPIA",26/11/2013 00:00:00,"03:57:"
+"56","SUB01","05             1   REGISTRO VENTAS                         1",26/11/2013 00:00:00,"03:57:"
+"56","SUB02","06            E2   REGISTRO VENTAS - EXPORTACIONES         E",26/11/2013 00:00:00,"03:57:"
+"56","SUB03","07             2   REGISTRO VENTAS - INAFECTAS             1",26/11/2013 00:00:00,"03:57:"
+"56","TIGV1","1        18.00",11/10/2019 00:00:00,"10:39:"
+"56","TIGV2","2         0.00",26/11/2013 00:00:00,"03:57:"
+"56","VTA01","         701111    MERCADERIAS VENTAS DE EXPORTACION T",19/10/2019 00:00:00,"10:51:"
+"56","VTA02","         701121    MERCADERIAS VENTAS DE EXPORTACION R",19/10/2019 00:00:00,"10:51:"
+"56","VTA03","         701211    MERCADERIAS VENTA LOCAL TERCEROS",19/10/2019 00:00:00,"10:51:"
+"56","VTA04","         701221    MERCADERIAS VENTA LOCAL RELACIONADA",19/10/2019 00:00:00,"10:52:"
+"56","VTA05","         702111    PROD.TERMINADOS -VENTA EXPORTACION",19/10/2019 00:00:00,"10:52:"
+"56","VTA06","         702121    PROD. TERMINADOS -VENTA EXPORTACION",19/10/2019 00:00:00,"10:52:"
+"56","VTA07","         702211    PRODUCTOSTERMINADOS - VENTA LOCAL T",19/10/2019 00:00:00,"10:52:"
+"56","VTA08","         702221    PRODUCTOSTERMINADOS - VENTA LOCAL R",19/10/2019 00:00:00,"10:52:"
+"56","VTA09","         703111    SERVICIOS - EXPORTACION  TERCEROS",19/10/2019 00:00:00,"10:52:"
+"56","VTA10","         703121    SERVICIOS - EXPORTACION  RELACIONAD",19/10/2019 00:00:00,"10:53:"
+"56","VTA11","         703211    SERVICIOS - LOCAL TERCEROS",19/10/2019 00:00:00,"10:53:"
+"56","VTA12","         703221    SERVICIOS - LOCAL RELACIONADAS",19/10/2019 00:00:00,"10:53:"
+"56","VTA13","         704111    SUB PRODUCTOS - TERCEROS",19/10/2019 00:00:00,"10:53:"
+"56","VTA14","         704121    SUB PRODUCTOS - RELACIONADAS",19/10/2019 00:00:00,"10:54:"
+"56","VTA15","         704211    DESECHOS Y DESPERDICIOS - TERCEROS",19/10/2019 00:00:00,"10:54:"
+"56","VTA16","         704221    DESECHOS Y DESPERDICIOS - RELACIONA",19/10/2019 00:00:00,"10:54:"
+"56","XANUL","0001               FACTURAS ANULADAS",26/11/2013 00:00:00,"03:57:"
+"56","XGEN","0000               CLIENTES VARIOS",26/11/2013 00:00:00,"03:57:"
+"58","CTA01","104101   M         BANCO DE CREDITO SOLES",26/11/2013 00:00:00,"03:57:"
+"58","CTA02","121201   M         FACTURAS SOLES TERCEROS",26/11/2013 00:00:00,"03:57:"
+"58","CTA03","121202   M         FACTURAS DOLARES TERCEROS",26/11/2013 00:00:00,"03:57:"
+"58","CTA04","421201   V         FACTURA SOLES",26/11/2013 00:00:00,"03:57:"
+"58","CTA05","421202   V         FACTURAS DOLARES",26/11/2013 00:00:00,"03:57:"
+"58","CTA06","102101   M         FONDOS FIJOS M.N.",11/10/2019 00:00:00,"14:20"
+"58","CTA07","102102   M         FONDOS FIJOS M.E.",11/10/2019 00:00:00,"14:20"
+"58","CTA08","103101   M         EFECTIVO EN TRANSITO M.N.",11/10/2019 00:00:00,"14:20"
+"58","CTA09","103102   M         EFECTIVO EN TRANSITO M.E.",11/10/2019 00:00:00,"14:20"
+"58","CTA10","103201   M         CHEQUES EN TRANSITO M.N.",11/10/2019 00:00:00,"14:20"
+"58","CTA11","103202   M         CHEQUES EN TRANSITO M.E.",11/10/2019 00:00:00,"14:20"
+"58","CTA12","104103   M         BANCO CONTINENTAL",11/10/2019 00:00:00,"14:20"
+"58","CTA13","105102   M         BANCO DE CREDITO M.E.",11/10/2019 00:00:00,"14:20"
+"58","CTA14","122101   M         ANTICIPOS DE CLIENTES TERCEROS",11/10/2019 00:00:00,"14:21"
+"58","CTA15","122102   M         ANTICIPOS DE CLIENTES TERCEROS",11/10/2019 00:00:00,"14:21"
+"58","CTA16","123201   M         LETRAS POR COBRAR EN CARTERA T",11/10/2019 00:00:00,"14:21"
+"58","CTA17","123202   M         LETRAS POR COBRAR EN CARTERA T",11/10/2019 00:00:00,"14:21"
+"58","CTA18","123302   M         LETRAS POR COBRAR EN COBRANZA",11/10/2019 00:00:00,"14:21"
+"58","CTA19","123301   M         LETRAS POR COBRAR EN COBRANZA",11/10/2019 00:00:00,"14:21"
+"58","CTA20","123401   M         LETRAS POR COBRAR EN DESCUENTO",11/10/2019 00:00:00,"14:21"
+"58","CTA21","123402   M         LETRAS POR COBRAR EN DESCUENTO",11/10/2019 00:00:00,"14:21"
+"58","CTA22","131111   M         FACT. POR COBRAR  NO EMITIDA R",11/10/2019 00:00:00,"14:21"
+"58","CTA23","131112   M         FACT. POR COBRAR  NO EMITIDA R",11/10/2019 00:00:00,"14:21"
+"58","CTA24","131211   M         FACT. POR COBRAR EMITIDAS EN C",11/10/2019 00:00:00,"14:21"
+"58","CTA25","131212   M         FACT. POR COBRAR EMITIDAS EN C",11/10/2019 00:00:00,"14:21"
+"58","CTA26","132112   M         ANTICIPOS RECIBIDOS RELACIONAD",11/10/2019 00:00:00,"14:21"
+"58","CTA27","132111   M         ANTICIPOS RECIBIDOS RELACIONAD",11/10/2019 00:00:00,"14:21"
+"58","CTA28","133111   M         LETRAS POR COBRAR EN CARTERA R",11/10/2019 00:00:00,"14:21"
+"58","CTA29","133112   M         LETRAS POR COBRAR EN CARTERA R",11/10/2019 00:00:00,"14:21"
+"58","CTA30","141101   M         PRESTAMOS DE PERSONAL EMPLEADO",11/10/2019 00:00:00,"14:21"
+"58","CTA31","141102   M         PRESTAMOS DE PERSONAL EMPLEADO",11/10/2019 00:00:00,"14:21"
+"58","CTA32","141111   M         PRESTAMOS DE PERSONAL OBREROS",11/10/2019 00:00:00,"14:21"
+"58","CTA33","141112   M         PRESTAMOS DE PERSONAL OBREROS",11/10/2019 00:00:00,"14:21"
+"58","CTA34","141301   M         ENTREGAS A RENDIR CUENTA DE PE",11/10/2019 00:00:00,"14:21"
+"58","CTA35","141302   M         ENTREGAS A RENDIR CUENTA DE PE",11/10/2019 00:00:00,"14:21"
+"58","CTA36","142201   M         PRESTAMOS ACCIONISTAS (O SOCIO",11/10/2019 00:00:00,"14:21"
+"58","CTA37","142202   M         PRESTAMOS ACCIONISTAS (O SOCIO",11/10/2019 00:00:00,"14:21"
+"58","CTA38","161101   M         COBRANZA DIVERSAS PRESTAMOS C/",11/10/2019 00:00:00,"14:21"
+"58","CTA39","161102   M         COBRANZA DIVERSAS PRESTAMOS C/",11/10/2019 00:00:00,"14:21"
+"58","CTA40","161111   M         COBRANZA DIVERSAS PRESTAMOS S/",11/10/2019 00:00:00,"14:21"
+"58","CTA41","161112   M         COBRANZA DIVERSAS PRESTAMOS S/",11/10/2019 00:00:00,"14:21"
+"58","CTA42","171111   M         COBRANZA DIVERSAS PTMOS.C/GARA",11/10/2019 00:00:00,"14:21"
+"58","CTA43","171112   M         COBRANZA DIVERSAS PTMOS.C/GARA",11/10/2019 00:00:00,"14:21"
+"58","CTA44","171211   M         COBRANZA DIVERSAS PTMOS.S/GARA",11/10/2019 00:00:00,"14:21"
+"58","CTA45","171212   M         COBRANZA DIVERSAS PTMOS.S/GARA",11/10/2019 00:00:00,"14:21"
+"58","CTA46","181101   M         COSTOS FINANCIEROS M.N.",11/10/2019 00:00:00,"14:21"
+"58","CTA47","181102   M         COSTOS FINANCIEROS M.E.",11/10/2019 00:00:00,"14:21"
+"58","CTA48","422101   V         ANTICIPOS A PROVEEDORES M.N.",11/10/2019 00:00:00,"14:21"
+"58","CTA49","422102   V         ANTICIPOS A PROVEEDORES M.E.",11/10/2019 00:00:00,"14:21"
+"58","CTA50","423101   V         LETRAS POR PAGAR M.N. TERCEROS",11/10/2019 00:00:00,"14:21"
+"58","CTA51","423102   V         LETRAS POR PAGAR M.E. TERCEROS",11/10/2019 00:00:00,"14:21"
+"58","CTA52","424101   V         HONORARIOS POR PAGAR M.N.",11/10/2019 00:00:00,"14:21"
+"58","CTA53","431101   V         FACTURAS NO EMITIDAS POR PAGAR",11/10/2019 00:00:00,"14:21"
+"58","CTA54","424102   V         HONORARIOS POR PAGAR M.E.",11/10/2019 00:00:00,"14:21"
+"58","CTA55","431102   V         FACTURAS NO EMITIDAS POR PAGAR",11/10/2019 00:00:00,"14:21"
+"58","CTA56","431202   V         FACTURAS EMITIDAS POR PAGAR M.",11/10/2019 00:00:00,"14:21"
+"58","CTA57","431201   V         FACTURAS EMITIDAS POR PAGAR M.",11/10/2019 00:00:00,"14:21"
+"58","CTA58","432101   V         ANTICIPOS OTORGADOS M.N. RELAC",11/10/2019 00:00:00,"14:21"
+"58","CTA59","432102   V         ANTICIPOS OTORGADOS M.E. RELAC",11/10/2019 00:00:00,"14:21"
+"58","CTA60","433101   V         LETRAS POR PAGAR M.N. RELACION",11/10/2019 00:00:00,"14:21"
+"58","CTA61","433102   V         LETRAS POR PAGAR M.E. RELACION",11/10/2019 00:00:00,"14:21"
+"58","CTA62","434101   V         HONORARIOS POR PAGAR M.N. RELA",11/10/2019 00:00:00,"14:21"
+"58","CTA63","434102   V         HONORARIOS POR PAGAR M.E. RELA",11/10/2019 00:00:00,"14:22"
+"58","CTA64","441112   V         PRESTAMOS ACCIONISTAS CORTO PL",11/10/2019 00:00:00,"14:22"
+"58","CTA65","441111   V         PRESTAMOS ACCIONISTAS CORTO PL",11/10/2019 00:00:00,"14:22"
+"58","CTA66","441121   V         PRESTAMOS ACCIONISTAS LARGO PL",11/10/2019 00:00:00,"14:22"
+"58","CTA67","441122   V         PRESTAMOS ACCIONISTAS LARGO PL",11/10/2019 00:00:00,"14:22"
+"58","CTA68","451101   V         INSTITUCIONES FINANCIERAS M.N.",11/10/2019 00:00:00,"14:22"
+"58","CTA69","451102   V         INSTITUCIONES FINANCIERAS M.E.",11/10/2019 00:00:00,"14:22"
+"58","CTA70","452101   V         LEASING M.N.",11/10/2019 00:00:00,"14:22"
+"58","CTA71","452102   V         LEASING M.E.",11/10/2019 00:00:00,"14:22"
+"58","CTA72","452111   V         LEASEBACK M.N.",11/10/2019 00:00:00,"14:22"
+"58","CTA73","452112   V         LEASEBACK M.E.",11/10/2019 00:00:00,"14:22"
+"58","CTA74","454901   V         CONFIRMING M.N.",11/10/2019 00:00:00,"14:22"
+"58","CTA75","454902   V         CONFIRMING M.E.",11/10/2019 00:00:00,"14:22"
+"58","CTA76","454911   V         FACTORING M.N.",11/10/2019 00:00:00,"14:22"
+"58","CTA77","454912   V         FACTORING M.E.",11/10/2019 00:00:00,"14:22"
+"58","CTA78","461101   V         RECLAMACIONES DE TERCEROS M.N.",11/10/2019 00:00:00,"14:22"
+"58","CTA79","461102   V         RECLAMACIONES DE TERCEROS M.E.",11/10/2019 00:00:00,"14:22"
+"58","CTA80","471101   V         PRESTAMOS RECIBIDOS M.N. RELAC",11/10/2019 00:00:00,"14:22"
+"58","CTA81","471102   V         PRESTAMOS RECIBIDOS M.E. RELAC",11/10/2019 00:00:00,"14:22"
+"58","SUB","56             REGULARIZACION AUT. DIF CAMBIO",26/11/2013 00:00:00,"03:57:"
+"58","XGA","776101         GANANCIAS X DIFERENCIA CAMBIO",26/11/2013 00:00:00,"03:57:"
+"58","XGP","676101          PERDIDAS",26/11/2013 00:00:00,"03:57:"
+"58","XMON","UZ",26/11/2013 00:00:00,"03:57:"
+"59","ANEC","P             PROVEEDORES",10/10/2019 00:00:00,"17:45:"
+"59","CTA01","631121        PASAJES TERRESTRES",10/10/2019 00:00:00,"17:46:"
+"59","CTA02","631301        ALOJAMIENTO",10/10/2019 00:00:00,"17:46:"
+"59","CTA03","631401        ALIMENTACION",10/10/2019 00:00:00,"17:46:"
+"59","CTA04","636101        ENERGIA ELECTRICA",10/10/2019 00:00:00,"17:46:"
+"59","CTA05","636201        GAS",10/10/2019 00:00:00,"17:46:"
+"59","CTA06","636301        AGUA",10/10/2019 00:00:00,"17:46:"
+"59","CTA07","636401        TELEFONO",10/10/2019 00:00:00,"17:46:"
+"59","CTA08","636501        INTERNET",10/10/2019 00:00:00,"17:46:"
+"59","CTAIGV","401111        IGV - CUENTA PROPIA",10/10/2019 00:00:00,"17:45:"
+"59","DOC01","FT       FACTURA",26/11/2013 00:00:00,"03:57:"
+"59","DOC02","TK       TIKECT",26/11/2013 00:00:00,"03:57:"
+"59","DOC03","RC       RECIBO SERV.PUBLICOS",26/11/2013 00:00:00,"03:57:"
+"59","DOC04","BV       BOLETA DE VENTA",26/11/2013 00:00:00,"03:57:"
+"60","CON01","141301        D    ENTREGAS A RENDIR CUENTA",26/11/2013 00:00:00,"03:57:"
+"71","A000","INGRESOS :",26/11/2013 00:00:00,"03:57:"
+"71","A001","VENTAS",26/11/2013 00:00:00,"03:57:"
+"71","B000","GASTOS :",26/11/2013 00:00:00,"03:57:"
+"71","B001","REMUNERACIONES, Y OTROS GASTOS DE PERSONAL",26/11/2013 00:00:00,"03:57:"
+"71","B003","LEYES SOCIALES",26/11/2013 00:00:00,"03:57:"
+"71","B004","COMPENSAC.TIEMPO DE SERVICIOS",26/11/2013 00:00:00,"03:57:"
+"71","B005","GRATIFICACIONES",26/11/2013 00:00:00,"03:57:"
+"71","B006","PARTICPACION DE UTILIDADES",26/11/2013 00:00:00,"03:57:"
+"71","B009","CAPACITACION",26/11/2013 00:00:00,"03:57:"
+"71","B010","VIAJES NACIONALES",26/11/2013 00:00:00,"03:57:"
+"71","B011","VIAJES INTERNACIONALES",26/11/2013 00:00:00,"03:57:"
+"71","B012","MOVILIDAD",26/11/2013 00:00:00,"03:57:"
+"71","B013","GASTOS DE REPRESENTACION",26/11/2013 00:00:00,"03:57:"
+"71","B014","COMISIONES AGENTES",26/11/2013 00:00:00,"03:57:"
+"71","B015","CORREO",26/11/2013 00:00:00,"03:57:"
+"71","B016","TELEFONO",26/11/2013 00:00:00,"03:57:"
+"71","B019","ELECTRICIDAD Y AGUA",26/11/2013 00:00:00,"03:57:"
+"71","B020","HONORARIOS",26/11/2013 00:00:00,"03:57:"
+"71","B021","PUBLICIDAD",26/11/2013 00:00:00,"03:57:"
+"71","B022","SUSCRIPCIONES",26/11/2013 00:00:00,"03:57:"
+"71","B023","UTILES DE OFICINA",26/11/2013 00:00:00,"03:57:"
+"71","B024","ALQUILERES",26/11/2013 00:00:00,"03:57:"
+"71","B025","MANTE REPARACION VEHICULOS",26/11/2013 00:00:00,"03:57:"
+"71","B026","MANTE REPARACION MAQ OFICINA",26/11/2013 00:00:00,"03:57:"
+"71","B027","MANTE Y REMODEL. OFICINA",26/11/2013 00:00:00,"03:57:"
+"71","B028","SEGUROS",26/11/2013 00:00:00,"03:57:"
+"71","B029","DEPRECIACIONES",26/11/2013 00:00:00,"03:57:"
+"71","B030","TRIBUTOS VARIOS",26/11/2013 00:00:00,"03:57:"
+"71","B031","DIFERENCIA DE CAMBIO",26/11/2013 00:00:00,"03:57:"
+"71","B032","GASTOS DE LEASING",26/11/2013 00:00:00,"03:57:"
+"71","B033","VARIOS",26/11/2013 00:00:00,"03:57:"
+"71","B034","GASTOS DE DIRECTORES",26/11/2013 00:00:00,"03:57:"
+"71","B999","  TOTAL",26/11/2013 00:00:00,"03:57:"
+"72","1000","VENTAS                                 -",26/11/2013 00:00:00,"03:57:"
+"72","1001","Ventas                                 -",26/11/2013 00:00:00,"03:57:"
+"72","1002","Ingresos Financieros                   -",26/11/2013 00:00:00,"03:57:"
+"72","1098R",,26/11/2013 00:00:00,"03:57:"
+"72","1099","     TOTAL VENTAS                      -",26/11/2013 00:00:00,"03:57:"
+"72","1099F","1001,1002                              -",26/11/2013 00:00:00,"03:57:"
+"72","1101","Costo de Ventas                        -",26/11/2013 00:00:00,"03:57:"
+"72","1198R",,26/11/2013 00:00:00,"03:57:"
+"72","1199","     TOTAL COSTO DE VENTAS             -",26/11/2013 00:00:00,"03:57:"
+"72","1199F","1101                                   -",26/11/2013 00:00:00,"03:57:"
+"72","1200R",,26/11/2013 00:00:00,"03:57:"
+"72","1201","     UTILIDAD OPERATIVA                -",26/11/2013 00:00:00,"03:57:"
+"72","1201F","1099,1199                              -",26/11/2013 00:00:00,"03:57:"
+"90","01","  ENERO",26/11/2013 00:00:00,"03:57:"
+"90","02"," FEBRERO",26/11/2013 00:00:00,"03:57:"
+"90","03","  MARZO",26/11/2013 00:00:00,"03:57:"
+"90","04","  ABRIL",26/11/2013 00:00:00,"03:57:"
+"90","05","  MAYO",26/11/2013 00:00:00,"03:57:"
+"90","06","  JUNIO",26/11/2013 00:00:00,"03:57:"
+"90","07","  JULIO",26/11/2013 00:00:00,"03:57:"
+"90","08"," AGOSTO",26/11/2013 00:00:00,"03:57:"
+"90","09","SETIEMBRE",26/11/2013 00:00:00,"03:57:"
+"90","10"," OCTUBRE",26/11/2013 00:00:00,"03:57:"
+"90","11","NOVIEMBRE",26/11/2013 00:00:00,"03:57:"
+"90","12","DICIEMBRE",26/11/2013 00:00:00,"03:57:"
+"91","000","APERTURA",26/11/2013 00:00:00,"03:57:"
+"91","101","INGRESOS",26/11/2013 00:00:00,"03:57:"
+"91","201","EGRESOS",26/11/2013 00:00:00,"03:57:"
+"93","AJU","S             INCLUYE CUENTAS DE AJUSTES REI EN REPORTES",26/11/2013 00:00:00,"03:57:"
+"93","ANT2","19",26/11/2013 00:00:00,"03:57:"
+"93","AUTO","N",26/11/2013 00:00:00,"03:57:"
+"93","BDSOFCOM",,29/11/2013 00:00:00,"09:36:"
+"93","CHEQL","S",15/10/2019 00:00:00,"17:01:"
+"93","CON","4",29/11/2013 00:00:00,"09:36:"
+"93","CONCIE","S",29/11/2013 00:00:00,"09:36:"
+"93","COS","S             SI CREA ACUMULADO POR CENTROS DE COSTOS",26/11/2013 00:00:00,"03:57:"
+"93","CTAA0002","S",29/11/2013 00:00:00,"09:36:"
+"93","CTAA0003","S",11/10/2019 00:00:00,"11:50:"
+"93","FACINA","1.01",10/10/2019 00:00:00,"17:45:"
+"93","GIRLNG","40",26/11/2013 00:00:00,"03:57:"
+"93","LNGIMP","70",26/11/2013 00:00:00,"03:57:"
+"93","MONPRE","US",29/11/2013 00:00:00,"09:36:"
+"93","NUMLIB","N",29/11/2013 00:00:00,"09:36:"
+"93","PUAGEN","N",29/11/2013 00:00:00,"09:36:"
+"93","PUANEPAT","N",26/11/2013 00:00:00,"03:57:"
+"93","PUBDOC","S",29/11/2013 00:00:00,"09:36:"
+"93","PUDETRA","S                  DETRACCIONES IGV",26/11/2013 00:00:00,"03:57:"
+"93","PUDISCOS","N",29/11/2013 00:00:00,"09:36:"
+"93","PUFACIGV","N",29/11/2013 00:00:00,"09:36:"
+"93","PUFASB52","N",29/11/2013 00:00:00,"09:36:"
+"93","PUGLOCHE","N",29/11/2013 00:00:00,"09:36:"
+"93","PUGVENIE","N",26/11/2013 00:00:00,"03:57:"
+"93","PUIGVR4","N",29/11/2013 00:00:00,"09:36:"
+"93","PUIVOU","S",15/10/2019 00:00:00,"17:01:"
+"93","PUMENUE","N",29/11/2013 00:00:00,"09:36:"
+"93","PURETE","N",29/11/2013 00:00:00,"09:36:"
+"93","PURUBPRE","N",29/11/2013 00:00:00,"09:36:"
+"93","PUSALDOC","S",29/11/2013 00:00:00,"09:36:"
+"93","PUWSSUNA","S",11/10/2019 00:00:00,"11:50:"
+"93","TANEA",,11/10/2019 00:00:00,"11:50:"
+"93","TANEP",,11/10/2019 00:00:00,"11:50:"
+"93","TPAG00","999",29/11/2013 00:00:00,"09:36:"
+"93","TPAG55","999",29/11/2013 00:00:00,"09:36:"
+"93","TPAG58","999",29/11/2013 00:00:00,"09:36:"
+"94","COB01","121201",26/11/2013 00:00:00,"03:57:"
+"94","COB02","121202",26/11/2013 00:00:00,"03:57:"
+"94","COB03","123201",26/11/2013 00:00:00,"03:57:"
+"94","COB04","123202",26/11/2013 00:00:00,"03:57:"
+"94","PAG01","421201",26/11/2013 00:00:00,"03:57:"
+"94","PAG02","421202",26/11/2013 00:00:00,"03:57:"
+"94","PAG03","423101",26/11/2013 00:00:00,"03:57:"
+"94","PAG04","423102",26/11/2013 00:00:00,"03:57:"
+"94","RPVE","030,060,090",26/11/2013 00:00:00,"03:57:"
+"94","RVEN","030,060,090",26/11/2013 00:00:00,"03:57:"
+"95","CTAN","79888              CARGAS IMPUTABLES CTAS.COSTOS ACM",26/11/2013 00:00:00,"03:57:"
+"95","CTAR","89888              CUENTA REI",26/11/2013 00:00:00,"03:57:"
+"95","DECF","3",26/11/2013 00:00:00,"03:57:"
+"95","SUBB","87                 SUBDIARIO AJUSTE POR INFLACION BALANCE",26/11/2013 00:00:00,"03:57:"
+"95","SUBF","88                 SUBDIARIO AJUSTE POR INFLACION GP-F",26/11/2013 00:00:00,"03:57:"
+"95","SUBN","89                 SUBDIARIO AJUSTE POR INFLACION GP-N",26/11/2013 00:00:00,"03:57:"
+"I1","BOLE","Boleta de Venta",26/11/2013 00:00:00,"03:57:"
+"I1","CHEQ","Cheque",26/11/2013 00:00:00,"03:57:"
+"I1","CONT","Contrato",26/11/2013 00:00:00,"03:57:"
+"I1","FACT","Factura",26/11/2013 00:00:00,"03:57:"
+"I1","FOTO","Foto",26/11/2013 00:00:00,"03:57:"
+"L2","01","INTANGIBLE ADQUIRIDO",19/10/2019 00:00:00,"10:07:"
+"L2","02","INTANGIBLE EN ETAPA DE INVESTIGACION",19/10/2019 00:00:00,"10:07:"
+"L2","03","INTANGIBLE EN ETAPA DE DESARROLLO",19/10/2019 00:00:00,"10:07:"
+"M1","01","ACCIONES CON DERECHO A VOTO",10/10/2019 00:00:00,"17:01:"
+"M1","02","ACCIONES SIN DERECHO A VOTO",10/10/2019 00:00:00,"17:01:"
+"M1","03","PARTICIPACIONES",10/10/2019 00:00:00,"17:01:"
+"M1","04","OTROS",10/10/2019 00:00:00,"17:01:"
+"N3","ANEXB","P",11/10/2019 00:00:00,"16:02"
+"N3","CTA01","US42     421202        FT.EMITIDAS M.E. TERCEROS",,
+"N3","CTA02","US43     431212        FT.EMITIDAS M.E. REL MATRIZ",,
+"N3","CTA03","US43     431222        FT.EMITIDAS M.E. REL.SUBSIDI",,
+"N3","CTA04","US43     431232        FT.EMITIDAS M.E. REL.ASOCIAD",,
+"N3","CTA05","US43     431242        FT.EMITIDAS M.E. REL.SUCURSA",,
+"N3","CTAG01","         637101        PUBLICIDAD",19/10/2019 00:00:00,"12:41:"
+"N3","CTAG02","         631301        ALOJAMIENTO",19/10/2019 00:00:00,"12:41:"
+"N3","CTAG03","         635201        ALQUILERES EDIFICACIONES",19/10/2019 00:00:00,"12:41:"
+"N3","DOC01","CN       H         COMPROBANTE NO DOMICILIADO",11/10/2019 00:00:00,"15:57:"
+"N3","DOC02","CA       D         NOTA DE ABONO/CREDITO NO DOMICILIADO",11/10/2019 00:00:00,"15:58:"
+"N3","DOC03","CD       H         NOTA DE DEBITO NO DOMICILIADO",11/10/2019 00:00:00,"15:59:"
+"N3","RETCTA","401741        RENTA DE NO DOMICILIADO",11/10/2019 00:00:00,"16:02:"
+"N3","RTA","         401741    RENTA DE NO DOMICILIADO",19/10/2019 00:00:00,"12:42:"
+"N3","SUB01","19                 FACTURAS DEL EXTERIOR",19/10/2019 00:00:00,"12:42:"
+"N3","ZZOTR01","         401121        IGV - SERVICIOS PRESTADOS POR NO D",11/10/2019 00:00:00,"16:02:"
+"N3","ZZOTR02","         401511        DERECHOS ARANCELARIOS",11/10/2019 00:00:00,"16:02:"
+"N4","1","MERCADERIA, MATERIA PRIMA, SUMINISTRO, ENVASES Y EMBALAJES",10/10/2019 00:00:00,"17:01:"
+"N4","2","ACTIVO FIJO",10/10/2019 00:00:00,"17:01:"
+"N4","3","OTROS ACTIVOS NO CONSIDERADOS EN LOS NUMERALES 1 Y 2",10/10/2019 00:00:00,"17:01:"
+"N4","4","GASTOS EDUC,RECRE,SALUD,CULT,REP,CAP,VIAJE,MAN VEH Y PREM",10/10/2019 00:00:00,"17:01:"
+"N4","5","OTROS GASTOS",10/10/2019 00:00:00,"17:01:"
+"N5","AED","UAE Dirham",,
+"N5","AFN","Afghani",,
+"N5","ALL","Lek",,
+"N5","AMD","Armenian Dram",,
+"N5","ANG","Netherlands Antillian Guilder",,
+"N5","AOA","Kwanza",,
+"N5","ARS","Argentine Peso",,
+"N5","AUD","Australian Dollar",,
+"N5","AWG","Aruban Guilder",,
+"N5","AZN","Azerbaijanian Manat",,
+"N5","BAM","Convertible Marks",,
+"N5","BBD","Barbados Dollar",,
+"N5","BDT","Taka",,
+"N5","BGN","Bulgarian Lev",,
+"N5","BHD","Bahraini Dinar",,
+"N5","BIF","Burundi Franc",,
+"N5","BMD","Bermudian Dollar (customarily known as Bermud",,
+"N5","BND","Brunei Dollar",,
+"N5","BOB","Boliviano",,
+"N5","BOV","Mvdol",,
+"N5","BRL","Brazilian Real",,
+"N5","BSD","Bahamian Dollar",,
+"N5","BTN","Ngultrum",,
+"N5","BWP","Pula",,
+"N5","BYR","Belarussian Ruble",,
+"N5","BZD","Belize Dollar",,
+"N5","CAD","Canadian Dollar",,
+"N5","CDF","Congolese Franc",,
+"N5","CHE","WIR Euro",,
+"N5","CHF","Swiss Franc",,
+"N5","CHW","WIR Franc",,
+"N5","CLF","Unidades de fomento",,
+"N5","CLP","Chilean Peso",,
+"N5","CNY","Yuan Renminbi",,
+"N5","COP","Colombian Peso",,
+"N5","COU","Unidad de Valor Real",,
+"N5","CRC","Costa Rican Colon",,
+"N5","CUC","Peso Convertible",,
+"N5","CUP","Cuban Peso",,
+"N5","CVE","Cape Verde Escudo",,
+"N5","CZK","Czech Koruna",,
+"N5","DJF","Djibouti Franc",,
+"N5","DKK","Danish Krone",,
+"N5","DOP","Dominican Peso",,
+"N5","DZD","Algerian Dinar",,
+"N5","EEK","Kroon",,
+"N5","EGP","Egyptian Pound",,
+"N5","ERN","Nakfa",,
+"N5","ETB","Ethiopian Birr",,
+"N5","EUR","Euro                                           421202",19/10/2019 00:00:00,"12:41:"
+"N5","FJD","Fiji Dollar",,
+"N5","FKP","Falkland Islands Pound",,
+"N5","GBP","Pound Sterling",,
+"N5","GEL","Lari",,
+"N5","GHS","Cedi",,
+"N5","GIP","Gibraltar Pound",,
+"N5","GMD","Dalasi",,
+"N5","GNF","Guinea Franc",,
+"N5","GTQ","Quetzal",,
+"N5","GYD","Guyana Dollar",,
+"N5","HKD","Hong Kong Dollar",,
+"N5","HNL","Lempira",,
+"N5","HRK","Croatian Kuna",,
+"N5","HTG","Gourde",,
+"N5","HUF","Forint",,
+"N5","IDR","Rupiah",,
+"N5","ILS","New Israeli Sheqel",,
+"N5","INR","Indian Rupee",,
+"N5","IQD","Iraqi Dinar",,
+"N5","IRR","Iranian Rial",,
+"N5","ISK","Iceland Krona",,
+"N5","JMD","Jamaican Dollar",,
+"N5","JOD","Jordanian Dinar",,
+"N5","JPY","Yen",,
+"N5","KES","Kenyan Shilling",,
+"N5","KGS","Som",,
+"N5","KHR","Riel",,
+"N5","KMF","Comoro Franc",,
+"N5","KPW","North Korean Won",,
+"N5","KRW","Won",,
+"N5","KWD","Kuwaiti Dinar",,
+"N5","KYD","Cayman Islands Dollar",,
+"N5","KZT","Tenge",,
+"N5","LAK","Kip",,
+"N5","LBP","Lebanese Pound",,
+"N5","LKR","Sri Lanka Rupee",,
+"N5","LRD","Liberian Dollar",,
+"N5","LSL","Loti",,
+"N5","LTL","Lithuanian Litas",,
+"N5","LVL","Latvian Lats",,
+"N5","LYD","Libyan Dinar",,
+"N5","MAD","Moroccan Dirham",,
+"N5","MDL","Moldovan Leu",,
+"N5","MGA","Malagasy Ariary",,
+"N5","MKD","Denar",,
+"N5","MMK","Kyat",,
+"N5","MNT","Tugrik",,
+"N5","MOP","Pataca",,
+"N5","MRO","Ouguiya",,
+"N5","MUR","Mauritius Rupee",,
+"N5","MVR","Rufiyaa",,
+"N5","MWK","Kwacha",,
+"N5","MXN","Mexican Peso",,
+"N5","MXV","Mexican Unidad de Inversion (UDI)",,
+"N5","MYR","Malaysian Ringgit",,
+"N5","MZN","Metical",,
+"N5","NAD","Namibia Dollar",,
+"N5","NGN","Naira",,
+"N5","NIO","Cordoba Oro",,
+"N5","NOK","Norwegian Krone",,
+"N5","NPR","Nepalese Rupee",,
+"N5","NZD","New Zealand Dollar",,
+"N5","OMR","Rial Omani",,
+"N5","PAB","Balboa",,
+"N5","PEN","Nuevo Sol o Sol                                421201",19/10/2019 00:00:00,"12:41:"
+"N5","PGK","Kina",,
+"N5","PHP","Philippine Peso",,
+"N5","PKR","Pakistan Rupee",,
+"N5","PLN","Zloty",,
+"N5","PYG","Guarani",,
+"N5","QAR","Qatari Rial",,
+"N5","RON","New Leu",,
+"N5","RSD","Serbian Dinar",,
+"N5","RUB","Russian Ruble",,
+"N5","RWF","Rwanda Franc",,
+"N5","SAR","Saudi Riyal",,
+"N5","SBD","Solomon Islands Dollar",,
+"N5","SCR","Seychelles Rupee",,
+"N5","SDG","Sudanese Pound",,
+"N5","SEK","Swedish Krona",,
+"N5","SGD","Singapore Dollar",,
+"N5","SHP","Saint Helena Pound",,
+"N5","SLL","Leone",,
+"N5","SOS","Somali Shilling",,
+"N5","SRD","Surinam Dollar",,
+"N5","STD","Dobra",,
+"N5","SVC","El Salvador Colon",,
+"N5","SYP","Syrian Pound",,
+"N5","SZL","Lilangeni",,
+"N5","THB","Baht",,
+"N5","TJS","Somoni",,
+"N5","TMT","Manat",,
+"N5","TND","Tunisian Dinar",,
+"N5","TOP","Pa anga",,
+"N5","TRY","Turkish Lira",,
+"N5","TTD","Trinidad and Tobago Dollar",,
+"N5","TWD","New Taiwan Dollar",,
+"N5","TZS","Tanzanian Shilling",,
+"N5","UAH","Hryvnia",,
+"N5","UGX","Uganda Shilling",,
+"N5","USD","US Dollar                                      421202",19/10/2019 00:00:00,"12:41:"
+"N5","USN","US Dollar (Next day)",,
+"N5","USS","US Dollar (Same day)",,
+"N5","UYI","Uruguay Peso en Unidades Indexadas",,
+"N5","UYU","Peso Uruguayo",,
+"N5","UZS","Uzbekistan Sum",,
+"N5","VEF","Bolivar Fuerte",,
+"N5","VND","Dong",,
+"N5","VUV","Vatu",,
+"N5","WST","Tala",,
+"N5","XAF","CFA Franc BEAC·Á",,
+"N5","XAG","Silver",,
+"N5","XAU","Gold",,
+"N5","XBA","Bond Markets Units European Composite Unit",,
+"N5","XBB","European Monetary Unit (E.M.U.-6)",,
+"N5","XBC","European Unit of Account 9(E.U.A.-9)",,
+"N5","XBD","European Unit of Account 17(E.U.A.-17)",,
+"N5","XCD","East Caribbean Dollar",,
+"N5","XDR","SDR",,
+"N5","XFU","UIC-Franc",,
+"N5","XOF","CFA Franc BCEAO·Â",,
+"N5","XPD","Palladium",,
+"N5","XPF","CFP Franc",,
+"N5","XPT","Platinum",,
+"N5","YER","Yemeni Rial",,
+"N5","ZAR","Rand",,
+"N5","ZMK","Zambian Kwacha",,
+"N5","ZWL","Zimbabwe Dollar",,
+"N6","00","Bienes",,
+"N6","01","Arrendamiento de predios",,
+"N6","02","Enajenaciæn Inmuebles y derechos sobre inmuebles",,
+"N6","03","Rtas de BB o derechos utilizados en el pa›s (Enajenaciæn)",,
+"N6","04","Regal›as: BB o DD por los que pagan son utilizados Pa›s",,
+"N6","05","Regalias: Pagador de las regal›as es domiciliado.",,
+"N6","06","Por cap,int,comis, primas, cap utilizado en el pa›s",,
+"N6","07","Dividendos y cualquier otra forma de distribuaciæn de UT",,
+"N6","08","Rendimientos de los ADR y GDRs que tengan ac. de empresas ND",,
+"N6","09","Orig en act civ, comerc, empresariales u otro en el pa›s",,
+"N6","10","Originadas en el trab personal que se lleve a cabo en Pa›s.",,
+"N6","11","Rtas vitalicias y pensiones pagadas por un ND",,
+"N6","12","Las obtenidas por la enajen. de acc y particip rep del cap",,
+"N6","13","Las obtenidas por la enajen de cert,tit,bonos.Fuera de Bolsa",,
+"N6","14","Las obtenidas por red. o rescate de cert,t›t Fuera de Bolsa",,
+"N6","15","Las obtenidas por la enajen de acc... Dentro de Bolsa",,
+"N6","16","Las obtenidas por red. o rescate de cert,t›t Dentro de Bolsa",,
+"N6","17","Enajen de los ADR y GDRs que tengan ac. de emp domiciliadas",,
+"N6","18","Las obtenidas por serv dig prestados por Internet en el Pa›s",,
+"N6","19","La obtenida por asist t⁄cnica cuando se utilice en el Pa›s",,
+"N6","20","Los intereses de oblig cuando se utilice econ en el Pa›s",,
+"N6","21","Remuneraciæn pagada por ND",,
+"N6","22","Honorarios y Remun del Sect. P∑b por trabajos en el ext.",,
+"N6","23","Resultados Proveniente de la contrataciæn de IFD",,
+"N6","24","Resultados de IFD con cobertura destinados a la gen de RFP",,
+"N6","25","Proveniente de contrat.de IFD sin cob dest a la gen de RFP",,
+"N6","26","IFD donde Activo subyacente sea ref al Tip Cam Mon Ext.",,
+"N6","27","Las obtenidas por la enajen indir de acc y part, domicil.",,
+"N6","28","Se incluye dentro de la enajen de empresas ND en el Pa›s",,
+"N6","29","Sujeto es el No Dom que distribuye por la red de cap",,
+"N6","30","Act. De Seguros 7% sobre las primas com por reaseguros",,
+"N6","31","Alquiler de naves, 8% sobre ingresos Brutos",,
+"N6","32","Alquiler de aeronaves. 60% sobre ingr. Brutos",,
+"N6","33","1% por el ingresos brutos por el transporte a⁄reo.",,
+"N6","34","Excepto otros trans no aereos o marit",,
+"N6","35","2% por los IB por fletamiento o transporte marit.",,
+"N6","36","Empresas por reciproc en l›neas extranj con sedes en el ext",,
+"N6","37","Serv portadores, teleserv o finales. Excep de serv digitales",,
+"N6","38","10% sobre las remun brutas que obtengan por el sum  noticias",,
+"N6","39","Para su utilizacion por personas nat o jurid domic.",,
+"N6","40","En el pa›s o desde el pa›s al ext y no presten serv de trans",,
+"N6","41","80% de los IB que obtengan por exceso de estad›a",,
+"N6","42","20% de IB de los ND por los der de retrans eventos en vivo",,
+"N6","43","Extranj que cuentan con cualidades a prestar servicios",,
+"N7","01","P.J. Intereses provenientes de cr⁄ditos externos        4.99",,
+"N7","02","P.J. Intereses al exterior de Bancos                    4.99",,
+"N7","03","P.J. Rentas de alquiler de naves y aeronaves              10",,
+"N7","04","P.J. Regal›as                                             30",,
+"N7","05","P.J. Dividendos 2015-2016                                6.8",,
+"N7","06","P.J. Asistencia T⁄cnica sin Informe T⁄cnico               30",,
+"N7","07","P.J. Asistencia T⁄cnica con Informe T⁄cnico               15",,
+"N7","08","P.J. Otras rentas inclusive intereses entre vinculadas    30",,
+"N7","09","P.J. Con artistas e int⁄rpretes                           15",,
+"N7","10","P.J. Venta de acciones dentro del pa›s                     5",,
+"N7","11","P.N. Rentas del Trabajo                                   30",,
+"N7","12","P.N. Regal›as                                             30",,
+"N7","13","P.N. Otras Rentas ˚ inclusive enajenaciæn de inmuebles    30",,
+"N7","14","P.N. Dividendos 2015-2016                                6.8",,
+"N7","15","P.N. Artistas e int⁄rpretes                               15",,
+"N7","16","P.N. Rentas del capital y enajen de acciones en el Pa›s    5",,
+"N8","1","SERVICIO PRESTADO INTEGRAMENTE EN EL PER+",,
+"N8","2","SERVICIO PRESTADO PARTE EN EL PER+ Y PARTE EN EL EXTRANJERO",,
+"N8","3","SERVICIO PRESTADO EXCLUSIVAMENTE EN EL EXTRANJERO",,
+"N9","00","Sin vinculaciæn",,
+"N9","01","Persona nautral o jurid con mﬂs de 30% de cap de otra",,
+"N9","02","Mﬂs de 30% del capital de 2 o + personas jurid.",,
+"N9","03","En cualquier caso ant, la proporcion perteneza a cænyuges‡",,
+"N9","04","El cap de 2 o + pers jurid pertenezca en mﬂs de 30% a soc.",,
+"N9","05","Personas jur›dicas o ent cuenten con uno o mﬂs directores",,
+"N9","06","Dos o mﬂs personas nat o jur›dicas consoliden EEFF",,
+"N9","07","Exista un contrato de colab emp C/contabilidad indpte.",,
+"N9","08","Exista un contrato de colab emp S/contabilidad indpte.",,
+"N9","09","Exista un contrato de asoc en participaciæn (30%)",,
+"N9","10","Una empresa ND tenga 1 o + establ permanentes en el Pa›s",,
+"N9","11","Una empresa ND tenga 1 o + establ permanentes en el ext",,
+"N9","12","Una pers N o J ejerza influ domin en decis de ærg de admin",,
+"NY","1","Los intereses prov. de cr⁄d de fomento otorgados direct",,
+"NY","2","Las rengas de los inmb de propiedad de org inter.",,
+"NY","3","Las remun que perciban por el ejerc de su cargo en el pa›s",,
+"NY","4","Los ingr brut que perciben las rep depor nac de pa›ses ext.",,
+"NY","5","Las regal por asesor t⁄c,econ... desde el ext por estatales",,
+"NY","6","Los ingr extranj por los espect cult en vivo seg∑n la INC",,
+"P1","CTAPCO","401131             IGV - REGIMEN DE PERCEPCIONES",10/10/2019 00:00:00,"17:45:"
+"R1","01","Masculino",26/11/2013 00:00:00,"03:57:"
+"R1","02","Femenino",26/11/2013 00:00:00,"03:57:"
+"R2","9001","BOUVET ISLAND",,
+"R2","9002","COTE DIVOIRE",,
+"R2","9003","FALKLAND ISLANDS (MALVINAS)",,
+"R2","9004","FRANCE, METROPOLITAN",,
+"R2","9005","FRENCH SOUTHERN TERRITORIES",,
+"R2","9006","HEARD AND MC DONALD ISLANDS",,
+"R2","9007","MAYOTTE",,
+"R2","9008","SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",,
+"R2","9009","SVALBARD AND JAN MAYEN ISLANDS",,
+"R2","9010","UNITED STATES MINOR OUTLYING ISLANDS",,
+"R2","9011","OTROS PAISES O LUGARES",,
+"R2","9013","AFGANISTAN",,
+"R2","9017","ALBANIA",,
+"R2","9019","ALDERNEY",,
+"R2","9023","ALEMANIA",,
+"R2","9026","ARMENIA",,
+"R2","9027","ARUBA",,
+"R2","9028","ASCENCI?N",,
+"R2","9029","BOSNIA-HERZEGOVINA",,
+"R2","9031","BURKINA FASO",,
+"R2","9037","ANDORRA",,
+"R2","9040","ANGOLA",,
+"R2","9041","ANGUILLA",,
+"R2","9043","ANTIGUA Y BARBUDA",,
+"R2","9047","ANTILLAS HOLANDESAS",,
+"R2","9053","ARABIA SAUDITA",,
+"R2","9059","ARGELIA",,
+"R2","9063","ARGENTINA",,
+"R2","9069","AUSTRALIA",,
+"R2","9072","AUSTRIA",,
+"R2","9074","AZERBAIJAN",,
+"R2","9077","BAHAMAS",,
+"R2","9080","BAHREIN",,
+"R2","9081","BANGLADESH",,
+"R2","9083","BARBADOS",,
+"R2","9087","BELGICA",,
+"R2","9088","BELICE",,
+"R2","9090","BERMUDAS",,
+"R2","9091","BELARUS",,
+"R2","9093","MYANMAR",,
+"R2","9097","BOLIVIA",,
+"R2","9101","BOTSWANA",,
+"R2","9105","BRASIL",,
+"R2","9108","BRUNEI DARUSSALAM",,
+"R2","9111","BULGARIA",,
+"R2","9115","BURUNDI",,
+"R2","9119","BUTAN",,
+"R2","9127","CABO VERDE",,
+"R2","9137","CAIMAN,ISLAS",,
+"R2","9141","CAMBOYA",,
+"R2","9145","CAMERUN,REPUBLICA UNIDA DEL",,
+"R2","9147","CAMPIONE D?TALIA",,
+"R2","9149","CANADA",,
+"R2","9155","CANAL (NORMANDAS), ISLAS",,
+"R2","9157","CANTON Y ENDERBURRY",,
+"R2","9159","SANTA SEDE",,
+"R2","9165","COCOS (KEELING),ISLAS",,
+"R2","9169","COLOMBIA",,
+"R2","9173","COMORAS",,
+"R2","9177","CONGO",,
+"R2","9183","COOK, ISLAS",,
+"R2","9187","COREA (NORTE), REPUBLICA POPULAR DEMOCRATICA DE",,
+"R2","9190","COREA (SUR), REPUBLICA DE",,
+"R2","9193","COSTA DE MARFIL",,
+"R2","9196","COSTA RICA",,
+"R2","9198","CROACIA",,
+"R2","9199","CUBA",,
+"R2","9203","CHAD",,
+"R2","9207","CHECOSLOVAQUIA",,
+"R2","9211","CHILE",,
+"R2","9215","CHINA",,
+"R2","9218","TAIWAN (FORMOSA)",,
+"R2","9221","CHIPRE",,
+"R2","9229","BENIN",,
+"R2","9232","DINAMARCA",,
+"R2","9235","DOMINICA",,
+"R2","9239","ECUADOR",,
+"R2","9240","EGIPTO",,
+"R2","9242","EL SALVADOR",,
+"R2","9243","ERITREA",,
+"R2","9244","EMIRATOS ARABES UNIDOS",,
+"R2","9245","ESPA?A",,
+"R2","9246","ESLOVAQUIA",,
+"R2","9247","ESLOVENIA",,
+"R2","9249","ESTADOS UNIDOS",,
+"R2","9251","ESTONIA",,
+"R2","9253","ETIOPIA",,
+"R2","9259","FEROE, ISLAS",,
+"R2","9267","FILIPINAS",,
+"R2","9271","FINLANDIA",,
+"R2","9275","FRANCIA",,
+"R2","9281","GABON",,
+"R2","9285","GAMBIA",,
+"R2","9286","GAZA Y JERICO",,
+"R2","9287","GEORGIA",,
+"R2","9289","GHANA",,
+"R2","9293","GIBRALTAR",,
+"R2","9297","GRANADA",,
+"R2","9301","GRECIA",,
+"R2","9305","GROENLANDIA",,
+"R2","9309","GUADALUPE",,
+"R2","9313","GUAM",,
+"R2","9317","GUATEMALA",,
+"R2","9325","GUAYANA FRANCESA",,
+"R2","9327","GUERNSEY",,
+"R2","9329","GUINEA",,
+"R2","9331","GUINEA ECUATORIAL",,
+"R2","9334","GUINEA-BISSAU",,
+"R2","9337","GUYANA",,
+"R2","9341","HAITI",,
+"R2","9345","HONDURAS",,
+"R2","9348","HONDURAS BRITANICAS",,
+"R2","9351","HONG KONG",,
+"R2","9355","HUNGRIA",,
+"R2","9361","INDIA",,
+"R2","9365","INDONESIA",,
+"R2","9369","IRAK",,
+"R2","9372","IRAN, REPUBLICA ISLAMICA DEL",,
+"R2","9375","IRLANDA (EIRE)",,
+"R2","9377","ISLA AZORES",,
+"R2","9378","ISLA DEL MAN",,
+"R2","9379","ISLANDIA",,
+"R2","9380","ISLAS CANARIAS",,
+"R2","9381","ISLAS DE CHRISTMAS",,
+"R2","9382","ISLAS QESHM",,
+"R2","9383","ISRAEL",,
+"R2","9386","ITALIA",,
+"R2","9391","JAMAICA",,
+"R2","9395","JONSTON, ISLAS",,
+"R2","9399","JAPON",,
+"R2","9401","JERSEY",,
+"R2","9403","JORDANIA",,
+"R2","9406","KAZAJSTAN",,
+"R2","9410","KENIA",,
+"R2","9411","KIRIBATI",,
+"R2","9412","KIRGUIZISTAN",,
+"R2","9413","KUWAIT",,
+"R2","9418","LABUN",,
+"R2","9420","LAOS, REPUBLICA POPULAR DEMOCRATICA DE",,
+"R2","9426","LESOTHO",,
+"R2","9429","LETONIA",,
+"R2","9431","LIBANO",,
+"R2","9434","LIBERIA",,
+"R2","9438","LIBIA",,
+"R2","9440","LIECHTENSTEIN",,
+"R2","9443","LITUANIA",,
+"R2","9445","LUXEMBURGO",,
+"R2","9447","MACAO",,
+"R2","9448","MACEDONIA",,
+"R2","9450","MADAGASCAR",,
+"R2","9453","MADEIRA",,
+"R2","9455","MALAYSIA",,
+"R2","9458","MALAWI",,
+"R2","9461","MALDIVAS",,
+"R2","9464","MALI",,
+"R2","9467","MALTA",,
+"R2","9469","MARIANAS DEL NORTE, ISLAS",,
+"R2","9472","MARSHALL, ISLAS",,
+"R2","9474","MARRUECOS",,
+"R2","9477","MARTINICA",,
+"R2","9485","MAURICIO",,
+"R2","9488","MAURITANIA",,
+"R2","9493","MEXICO",,
+"R2","9494","MICRONESIA, ESTADOS FEDERADOS DE",,
+"R2","9495","MIDWAY ISLAS",,
+"R2","9496","MOLDAVIA",,
+"R2","9497","MONGOLIA",,
+"R2","9498","MONACO",,
+"R2","9501","MONTSERRAT, ISLA",,
+"R2","9505","MOZAMBIQUE",,
+"R2","9507","NAMIBIA",,
+"R2","9508","NAURU",,
+"R2","9511","NAVIDAD (CHRISTMAS), ISLA",,
+"R2","9517","NEPAL",,
+"R2","9521","NICARAGUA",,
+"R2","9525","NIGER",,
+"R2","9528","NIGERIA",,
+"R2","9531","NIUE, ISLA",,
+"R2","9535","NORFOLK, ISLA",,
+"R2","9538","NORUEGA",,
+"R2","9542","NUEVA CALEDONIA",,
+"R2","9545","PAPUASIA NUEVA GUINEA",,
+"R2","9548","NUEVA ZELANDA",,
+"R2","9551","VANUATU",,
+"R2","9556","OMAN",,
+"R2","9566","PACIFICO, ISLAS DEL",,
+"R2","9573","PAISES BAJOS",,
+"R2","9576","PAKISTAN",,
+"R2","9578","PALAU, ISLAS",,
+"R2","9579","TERRITORIO AUTONOMO DE PALESTINA.",,
+"R2","9580","PANAMA",,
+"R2","9586","PARAGUAY",,
+"R2","9589","PERU",,
+"R2","9593","PITCAIRN, ISLA",,
+"R2","9599","POLINESIA FRANCESA",,
+"R2","9603","POLONIA",,
+"R2","9607","PORTUGAL",,
+"R2","9611","PUERTO RICO",,
+"R2","9618","QATAR",,
+"R2","9628","REINO UNIDO",,
+"R2","9629","ESCOCIA",,
+"R2","9633","REPUBLICA ARABE UNIDA",,
+"R2","9640","REPUBLICA CENTROAFRICANA",,
+"R2","9644","REPUBLICA CHECA",,
+"R2","9645","REPUBLICA DE SWAZILANDIA",,
+"R2","9646","REPUBLICA DE TUNEZ",,
+"R2","9647","REPUBLICA DOMINICANA",,
+"R2","9660","REUNION",,
+"R2","9665","ZIMBABWE",,
+"R2","9670","RUMANIA",,
+"R2","9675","RUANDA",,
+"R2","9676","RUSIA",,
+"R2","9677","SALOMON, ISLAS",,
+"R2","9685","SAHARA OCCIDENTAL",,
+"R2","9687","SAMOA OCCIDENTAL",,
+"R2","9690","SAMOA NORTEAMERICANA",,
+"R2","9695","SAN CRISTOBAL Y NIEVES",,
+"R2","9697","SAN MARINO",,
+"R2","9700","SAN PEDRO Y MIQUELON",,
+"R2","9705","SAN VICENTE Y LAS GRANADINAS",,
+"R2","9710","SANTA ELENA",,
+"R2","9715","SANTA LUCIA",,
+"R2","9720","SANTO TOME Y PRINCIPE",,
+"R2","9728","SENEGAL",,
+"R2","9731","SEYCHELLES",,
+"R2","9735","SIERRA LEONA",,
+"R2","9741","SINGAPUR",,
+"R2","9744","SIRIA, REPUBLICA ARABE DE",,
+"R2","9748","SOMALIA",,
+"R2","9750","SRI LANKA",,
+"R2","9756","SUDAFRICA, REPUBLICA DE",,
+"R2","9759","SUDAN",,
+"R2","9764","SUECIA",,
+"R2","9767","SUIZA",,
+"R2","9770","SURINAM",,
+"R2","9773","SAWSILANDIA",,
+"R2","9774","TADJIKISTAN",,
+"R2","9776","TAILANDIA",,
+"R2","9780","TANZANIA, REPUBLICA UNIDA DE",,
+"R2","9783","DJIBOUTI",,
+"R2","9786","TERRITORIO ANTARTICO BRITANICO",,
+"R2","9787","TERRITORIO BRITANICO DEL OCEANO INDICO",,
+"R2","9788","TIMOR DEL ESTE",,
+"R2","9800","TOGO",,
+"R2","9805","TOKELAU",,
+"R2","9810","TONGA",,
+"R2","9815","TRINIDAD Y TOBAGO",,
+"R2","9816","TRISTAN DA CUNHA",,
+"R2","9820","TUNICIA",,
+"R2","9823","TURCAS Y CAICOS, ISLAS",,
+"R2","9825","TURKMENISTAN",,
+"R2","9827","TURQUIA",,
+"R2","9828","TUVALU",,
+"R2","9830","UCRANIA",,
+"R2","9833","UGANDA",,
+"R2","9840","URSS",,
+"R2","9845","URUGUAY",,
+"R2","9847","UZBEKISTAN",,
+"R2","9850","VENEZUELA",,
+"R2","9855","VIET NAM",,
+"R2","9858","VIETNAM (DEL NORTE)",,
+"R2","9863","VIRGENES, ISLAS (BRITANICAS)",,
+"R2","9866","VIRGENES, ISLAS (NORTEAMERICANAS)",,
+"R2","9870","FIJI",,
+"R2","9873","WAKE, ISLA",,
+"R2","9875","WALLIS Y FORTUNA, ISLAS",,
+"R2","9880","YEMEN",,
+"R2","9885","YUGOSLAVIA",,
+"R2","9888","ZAIRE",,
+"R2","9890","ZAMBIA",,
+"R2","9895","ZONA DEL CANAL DE PANAMA",,
+"R2","9896","ZONA LIBRE OSTRAVA",,
+"R2","9897","ZONA NEUTRAL (PALESTINA)",,
+"R3","00","NO TIENE ESSALUD VIDA",26/11/2013 00:00:00,"03:57:"
+"R3","01","SI TIENE ESSALUD VIDA",26/11/2013 00:00:00,"03:57:"
+"R4","01","AVENIDA",26/11/2013 00:00:00,"03:57:"
+"R4","02","JIRON",26/11/2013 00:00:00,"03:57:"
+"R4","03","CALLE",26/11/2013 00:00:00,"03:57:"
+"R4","04","PASAJE",26/11/2013 00:00:00,"03:57:"
+"R4","05","ALAMEDA",26/11/2013 00:00:00,"03:57:"
+"R4","06","MALECON",26/11/2013 00:00:00,"03:57:"
+"R4","07","OVALO",26/11/2013 00:00:00,"03:57:"
+"R4","08","PARQUE",26/11/2013 00:00:00,"03:57:"
+"R4","09","PLAZA",26/11/2013 00:00:00,"03:57:"
+"R4","10","CARRETERA",26/11/2013 00:00:00,"03:57:"
+"R4","11","BLOCK",26/11/2013 00:00:00,"03:57:"
+"R5","01","URBANIZACION",26/11/2013 00:00:00,"03:57:"
+"R5","02","PUEBLO JOVEN",26/11/2013 00:00:00,"03:57:"
+"R5","03","UNIDAD VECINAL",26/11/2013 00:00:00,"03:57:"
+"R5","04","CONJUNTO HABITACIONAL",26/11/2013 00:00:00,"03:57:"
+"R5","05","ASENTAMIENTO HUMANO",26/11/2013 00:00:00,"03:57:"
+"R5","06","COOPERATIVA",26/11/2013 00:00:00,"03:57:"
+"R5","07","RESIDENCIAL",26/11/2013 00:00:00,"03:57:"
+"R5","08","ZONA INDUSTRIAL",26/11/2013 00:00:00,"03:57:"
+"R5","09","GRUPO",26/11/2013 00:00:00,"03:57:"
+"R5","10","CASERIO",26/11/2013 00:00:00,"03:57:"
+"R5","11","FUNDO",26/11/2013 00:00:00,"03:57:"
+"R7","N","NOTA DE CREDITO",26/11/2013 00:00:00,"03:57:"
+"R7","O","OTRO COMPROBANTE",26/11/2013 00:00:00,"03:57:"
+"R7","R","RECIBO POR HONORARIO",26/11/2013 00:00:00,"03:57:"
+"R8","01","LIBRETA ELECTORAL/DNI",26/11/2013 00:00:00,"03:57:"
+"R8","02","CARNET DE FUERZAS POLICIALES",26/11/2013 00:00:00,"03:57:"
+"R8","03","CARNET DE FUERZAS ARMADAS",26/11/2013 00:00:00,"03:57:"
+"R8","04","CARNET DE EXTRANJERIA",26/11/2013 00:00:00,"03:57:"
+"R8","07","PASAPORTE",26/11/2013 00:00:00,"03:57:"
+"R8","08","DOC.PROVISIONAL DE IDENTIDAD",26/11/2013 00:00:00,"03:57:"
+"R8","11","PARTIDA DE NACIMIENTO",26/11/2013 00:00:00,"03:57:"
+"R8","13","TRAB.MENOR DE EDAD/INTERDIC",26/11/2013 00:00:00,"03:57:"
+"R9","00","Ninguno",19/10/2019 00:00:00,"10:07:"
+"R9","01","CANADA",,
+"R9","02","CHILE",,
+"R9","03","COMUNIDAD ANDINA DE NACIONES (CAN)",,
+"R9","04","BRASIL",,
+"R9","05","ESTADOS UNIDOS MEXICANOS",,
+"R9","06","REPUBLICA DE COREA",,
+"R9","07","CONFEDERACIÀN SUIZA",,
+"R9","08","PORTUGAL",,
+"R9","09","OTROS",,
+"S1","001","DEPOSITO EN CUENTA",26/11/2013 00:00:00,"03:57:"
+"S1","002","GIRO",26/11/2013 00:00:00,"03:57:"
+"S1","003","TRANSFERENCIA DE FONDOS",26/11/2013 00:00:00,"03:57:"
+"S1","004","ORDEN DE PAGO",26/11/2013 00:00:00,"03:57:"
+"S1","005","TARJETA DE DEBITO",26/11/2013 00:00:00,"03:57:"
+"S1","006","TARJETA DE CREDITO",26/11/2013 00:00:00,"03:57:"
+"S1","007","CHEQUES CON LA CLAUSULA NO NEGOCIABLE",26/11/2013 00:00:00,"03:57:"
+"S1","008","EFECTIVO, POR OPERACIONES EN LA QUE NO EXISTE OBLIGACION",26/11/2013 00:00:00,"03:57:"
+"S1","009","EFECTIVO, EN LOS DEMAS CASOS",26/11/2013 00:00:00,"03:57:"
+"S1","010","MEDIOS DE PAGO DEL COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","011","LETRAS DE CAMBIO",26/11/2013 00:00:00,"03:57:"
+"S1","101","TRANSFERENCIAS - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","102","CHEQUES BANCARIOS - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","103","ORDEN DE PAGO SIMPLE - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","104","ORDEN DE PAGO DOCUMENTTARIO - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","105","REMESA SIMPLE - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","106","REMESA DOCUMENTARIA - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","107","CARTA DE CREDITO SIMPLE - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","108","CARTA DE CREDITO DOCUMENTARIO - COMERCIO EXTERIOR",26/11/2013 00:00:00,"03:57:"
+"S1","999","OTROS MEDIOS DE PAGO (ESPECIFICAR)",26/11/2013 00:00:00,"03:57:"
+"S3","01","CENTRAL RESERVA DEL PERU",26/11/2013 00:00:00,"03:57:"
+"S3","02","DE CREDITO DEL PERU",26/11/2013 00:00:00,"03:57:"
+"S3","03","INTERNACIONAL DEL PERU",26/11/2013 00:00:00,"03:57:"
+"S3","05","LATINO",26/11/2013 00:00:00,"03:57:"
+"S3","07","CITIBANK DEL PERU S.A.",26/11/2013 00:00:00,"03:57:"
+"S3","08","STANDARD CHARTERED",26/11/2013 00:00:00,"03:57:"
+"S3","09","SCOTIABANK PERU",26/11/2013 00:00:00,"03:57:"
+"S3","11","CONTINENTAL",26/11/2013 00:00:00,"03:57:"
+"S3","12","DE LIMA",26/11/2013 00:00:00,"03:57:"
+"S3","16","MERCANTIL",26/11/2013 00:00:00,"03:57:"
+"S3","18","NACION",26/11/2013 00:00:00,"03:57:"
+"S3","22","SANTANDER CENTRAL HISPANO",26/11/2013 00:00:00,"03:57:"
+"S3","23","DE COMERCIO",26/11/2013 00:00:00,"03:57:"
+"S3","25","REPUBLICA",26/11/2013 00:00:00,"03:57:"
+"S3","26","NBK BANK",26/11/2013 00:00:00,"03:57:"
+"S3","29","BANCOSUR",26/11/2013 00:00:00,"03:57:"
+"S3","35","FINANCIERO DEL PERU",26/11/2013 00:00:00,"03:57:"
+"S3","37","DEL PROGRESO",26/11/2013 00:00:00,"03:57:"
+"S3","38","INTERAMERICANO FINANZAS",26/11/2013 00:00:00,"03:57:"
+"S3","39","BANEX",26/11/2013 00:00:00,"03:57:"
+"S3","40","NUEVO MUNDO",26/11/2013 00:00:00,"03:57:"
+"S3","41","SUDAMERICANO",26/11/2013 00:00:00,"03:57:"
+"S3","42","DEL LIBERTADOR",26/11/2013 00:00:00,"03:57:"
+"S3","43","DEL TRABAJO",26/11/2013 00:00:00,"03:57:"
+"S3","44","SOLVENTA",26/11/2013 00:00:00,"03:57:"
+"S3","45","SERBANCO SA",26/11/2013 00:00:00,"03:57:"
+"S3","46","BANK OF BOSTON",26/11/2013 00:00:00,"03:57:"
+"S3","47","ORION",26/11/2013 00:00:00,"03:57:"
+"S3","48","DEL PAIS",26/11/2013 00:00:00,"03:57:"
+"S3","49","MI BANCO",26/11/2013 00:00:00,"03:57:"
+"S3","50","BNP PARIBAS",26/11/2013 00:00:00,"03:57:"
+"S3","51","AGROBANCO",11/10/2019 00:00:00,"15:06:"
+"S3","53","HSBC BANK PERU S.A.",26/11/2013 00:00:00,"03:57:"
+"S3","54","BANCO FALABELLA SA",11/10/2019 00:00:00,"15:06:"
+"S3","55","BANCO RIPLEY",11/10/2019 00:00:00,"15:07:"
+"S3","56","BANCO SANTANDER PERU SA",11/10/2019 00:00:00,"15:08:"
+"S3","58","BANCO AZTECA DEL PERU",11/10/2019 00:00:00,"15:08:"
+"S3","99","OTROS",26/11/2013 00:00:00,"03:57:"
+"SB","019","TUMBES",26/11/2013 00:00:00,"03:57:"
+"SB","028","TALARA",26/11/2013 00:00:00,"03:57:"
+"SB","046","PAITA",26/11/2013 00:00:00,"03:57:"
+"SB","055","CHICLAYO",26/11/2013 00:00:00,"03:57:"
+"SB","082","SALAVERRY",26/11/2013 00:00:00,"03:57:"
+"SB","091","CHIMBOTE",26/11/2013 00:00:00,"03:57:"
+"SB","118","MARITIMA DEL CALLAO",26/11/2013 00:00:00,"03:57:"
+"SB","127","PISCO",26/11/2013 00:00:00,"03:57:"
+"SB","145","MOLLENDO MATARANI",26/11/2013 00:00:00,"03:57:"
+"SB","154","AREQUIPA",26/11/2013 00:00:00,"03:57:"
+"SB","163","ILO",26/11/2013 00:00:00,"03:57:"
+"SB","172","TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","181","PUNO",26/11/2013 00:00:00,"03:57:"
+"SB","190","CUZCO",26/11/2013 00:00:00,"03:57:"
+"SB","217","PUCALLPA",26/11/2013 00:00:00,"03:57:"
+"SB","226","IQUITOS",26/11/2013 00:00:00,"03:57:"
+"SB","235","AEREA DEL CALLAO",26/11/2013 00:00:00,"03:57:"
+"SB","244","POSTAL DE LIMA",26/11/2013 00:00:00,"03:57:"
+"SB","262","DESAGUADERO",26/11/2013 00:00:00,"03:57:"
+"SB","271","TARAPOTO",26/11/2013 00:00:00,"03:57:"
+"SB","280","PUERTO MALDONADO",26/11/2013 00:00:00,"03:57:"
+"SB","299","LA TINA",26/11/2013 00:00:00,"03:57:"
+"SB","884","DEPENDENCIA FERROVIARIA TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","893","DEPENDENCIA POSTAL TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","910","DEPENDENCIA POSTAL AREQUIPA",26/11/2013 00:00:00,"03:57:"
+"SB","929","COMPLEJO FRONTERIZO STA ROSA TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","938","TERMINAL TERRESTRE TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","947","AEROPUERTO TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","956","CETICOS TACNA",26/11/2013 00:00:00,"03:57:"
+"SB","965","DEPENDENCIA POSTAL DE SALAVERRY",26/11/2013 00:00:00,"03:57:"
+"SB","983","A NIVEL NACIONAL",11/10/2019 00:00:00,"14:58:"
+"SB","992","LIMA METROPOLITANA",11/10/2019 00:00:00,"14:58:"
+"TP","01","PLAN CONTABLE GENERAL EMPRESARIAL",10/10/2019 00:00:00,"17:04:"
+"TP","02","PLAN CONTABLE GENERAL REVISADO",10/10/2019 00:00:00,"17:04:"
+"TP","03","PARA EMPRESAS DEL SISTEMA FINANCIERO SUPERVISADAS POR MES",10/10/2019 00:00:00,"17:04:"
+"TP","04","PARA ENTIDADES PRESTADORAS DE SALUD, SUPERVISADAS POR SBS",10/10/2019 00:00:00,"17:04:"
+"TP","05","ADM. PRIVADAS FONDOS DE PENSIONES SUPERVISADAS POR SBS",10/10/2019 00:00:00,"17:04:"
+"TP","06","PLAN CONTABLE GUBERNAMENTAL",10/10/2019 00:00:00,"17:04:"
+"TP","07","PLAN CONTABLE GUBERNAMENTAL",19/10/2019 00:00:00,"10:07:"
+"TP","99","OTROS",10/10/2019 00:00:00,"17:04:"
+"Y1","01","SECTOR DIVERSAS - INDIVIDUAL",10/10/2019 00:00:00,"17:01:"
+"Y1","02","SECTOR SEGUROS - INDIVIDUAL",10/10/2019 00:00:00,"17:01:"
+"Y1","03","SECTOR BANCOS Y FINANCIERAS - INDIVIDUAL",10/10/2019 00:00:00,"17:01:"
+"Y1","04","ADMINISTRADORAS DE FONDOS DE PENSIONES (AFP)",10/10/2019 00:00:00,"17:01:"
+"Y1","05","AGENTES DE INTERMEDIACION",10/10/2019 00:00:00,"17:01:"
+"Y1","06","FONDOS DE INVERSION",10/10/2019 00:00:00,"17:01:"
+"Y1","07","PATRIMONIO DE FIDEICOMISOS",10/10/2019 00:00:00,"17:01:"
+"Y1","08","ICLV",10/10/2019 00:00:00,"17:01:"
+"Y1","09","OTROS NO CONSIDERADOS EN LOS ANTERIORES",10/10/2019 00:00:00,"17:01:"
+"Y2","3.1","ESTADO DE SITUACION FINANCIERA",10/10/2019 00:00:00,"17:01:"
+"Y2","3.18","ESTADO DE FLUJOS DE EFECTIVOS - METODO DIRECTO",10/10/2019 00:00:00,"17:01:"
+"Y2","3.19","ESTADO DE CAMBIOS EN EL PATRIMONIO NETO",10/10/2019 00:00:00,"17:01:"
+"Y2","3.20","ESTADO DE RESULTADOS",10/10/2019 00:00:00,"17:01:"
+"Y2","3.24","ESTADO DE RESULTADOS INTEGRALES",10/10/2019 00:00:00,"17:01:"
+"Y2","3.25","ESTADO DE FLUJOS DE EFECTIVO - METODO DIRECTO",10/10/2019 00:00:00,"17:01:"
+"Z1","CTA001","101101",26/11/2013 00:00:00,"03:57:"
+"Z1","CTA002","101102",26/11/2013 00:00:00,"03:57:"
+"Z1","CTA003","102101",26/11/2013 00:00:00,"03:57:"
+"Z1","CTA004","102102",26/11/2013 00:00:00,"03:57:"
+"Z1","CTA005","104101",26/11/2013 00:00:00,"03:57:"
+"Z1","CTA006","105102",26/11/2013 00:00:00,"03:57:"
+"Z1","SUB01","01",26/11/2013 00:00:00,"03:57:"
+"Z1","SUB02","10",26/11/2013 00:00:00,"03:57:"
+"L4","01","ACCIONES CON DERECHO A VOTO",25/10/2019 00:00:00,"10:51:"
+"L4","02","ACCIONES SIN DERECHO A VOTO",25/10/2019 00:00:00,"10:51:"
+"L4","03","PARTICIPACIONES",25/10/2019 00:00:00,"10:51:"
+"L4","04","OTROS",25/10/2019 00:00:00,"10:51:"

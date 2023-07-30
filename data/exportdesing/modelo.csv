@@ -1,0 +1,8 @@
+TABLA: modelo
+
+Id LONG(4) 
+archivo TEXT(10)
+nombreTabla TEXT(10)
+modelo TEXT(10)
+
+
